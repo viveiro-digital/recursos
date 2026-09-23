@@ -163,8 +163,9 @@ def check_duplicates(entries):
                 continue
             value = normalizer(entry[key])
             if value in seen:
-                other = seen[value]["path"].relative_to(ROOT).as_posix()
-                error(entry["path"], f"{label} duplicado: igual ao de `{other}`")
+                first = seen[value]["path"]
+                error(entry["path"], f"{label} duplicado: igual ao de `{first.relative_to(ROOT).as_posix()}`")
+                error(first, f"{label} duplicado: igual ao de `{entry['path'].relative_to(ROOT).as_posix()}`")
             else:
                 seen[value] = entry
 
@@ -236,7 +237,7 @@ def write_report(path, entries, changes, note):
             lines.append("Nenhuma mudança no índice.")
         for label, items in (("Adicionada", added), ("Alterada", changed), ("Removida", removed)):
             lines += [f"- {label}: {title} (`{entry}`)" for title, entry in items]
-    if note:
+    if note and not errors:
         lines += ["", note]
     Path(path).write_text("\n".join(lines) + "\n", encoding="utf-8")
 
