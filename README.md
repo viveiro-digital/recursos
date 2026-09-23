@@ -9,7 +9,7 @@ Recursos para organização e preservação de acervos digitais comunitários.
 
 O Viveiro é uma iniciativa em formação que apoia comunidades no cuidado de seus acervos digitais: organizar, preservar e compartilhar registros de suas histórias, mantendo autonomia sobre os materiais, suas descrições e suas condições de acesso. Tem interesse especial em iniciativas de comunidades minoritárias e sub-representadas, cujas memórias enfrentam apagamento, invisibilidade ou pouco apoio institucional.
 
-O projeto nasce da experiência com a [Biblioteca de Zines](https://biblioteca-de-zines.com.br/), uma iniciativa gratuita e colaborativa dedicada a zines brasileiras, que será o primeiro piloto do Viveiro.
+O projeto nasce da experiência com a [Biblioteca de Zines](https://biblioteca-de-zines.com.br/), uma iniciativa gratuita e colaborativa dedicada a zines brasileiras, que será o primeiro piloto do Viveiro. O Viveiro é mantido por [Luma Montes](https://github.com/lumamontes).
 
 Este repositório reúne ferramentas, guias, padrões e iniciativas que já existem e ajudam nesse trabalho, organizados por necessidade.
 
