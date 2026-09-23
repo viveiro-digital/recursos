@@ -18,13 +18,12 @@ Abra uma [issue](https://github.com/viveiro-digital/recursos/issues/new) com:
 
 ## Acrescentar ou corrigir um recurso por pull request
 
-Cada recurso fica em um arquivo próprio, dentro da pasta da sua categoria.
+Cada recurso fica em um arquivo próprio, dentro da pasta da sua categoria. As pastas estão listadas no [README](README.md#categorias).
 
 1. Escolha a pasta da categoria. Se nenhuma servir, explique no pull request; não crie pastas vazias.
 2. Crie um arquivo com o nome do recurso em minúsculas, sem acentos e com hífens, por exemplo `preservacao-digital/ndsa-levels-of-digital-preservation.md`.
 3. Use o modelo abaixo.
-4. Acrescente uma linha para o recurso no `README.md` da categoria.
-5. Abra o pull request.
+4. Abra o pull request.
 
 Antes de criar um arquivo, procure o link no repositório: se o recurso já existir, melhore a entrada existente.
 
