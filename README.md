@@ -27,7 +27,14 @@ Estar nesta lista não significa parceria ou endosso.
 
 ## Categorias
 
+- [Acervos comunitários](acervos-comunitarios/README.md): iniciativas, reflexões e princípios sobre acervos mantidos por comunidades, incluindo coleções de zines.
 - [Preservação digital](preservacao-digital/README.md): práticas, modelos e iniciativas para manter materiais digitais acessíveis e recuperáveis ao longo do tempo.
+- [Políticas de preservação](politicas-de-preservacao/README.md): modelos, exemplos e guias para escrever políticas e documentar rotinas de preservação.
+- [Catalogação e repositórios](catalogacao-e-repositorios/README.md): softwares para catalogar, gerir e publicar coleções digitais.
+- [Metadados e integração](metadados-e-integracao/README.md): vocabulários, formatos e protocolos para descrever materiais e trocar dados entre sistemas.
+- [Tratamento de arquivos](tratamento-de-arquivos/README.md): ferramentas para limpar dados, identificar e validar formatos, processar, copiar e recuperar arquivos.
+- [Acesso, direitos e acessibilidade](acesso-direitos-e-acessibilidade/README.md): referências sobre acessibilidade, direitos autorais, proteção de dados e controle de acesso.
+- [Desenvolvimento e documentação](desenvolvimento-e-documentacao/README.md): guias para organizar projetos abertos e escrever documentação.
 
 ## Como contribuir
 

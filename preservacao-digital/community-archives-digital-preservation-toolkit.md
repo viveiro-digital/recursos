@@ -13,4 +13,4 @@ Orientações práticas da Digital Preservation Coalition para pequenas iniciati
 ## Observações
 
 - Em inglês.
-- Inclui uma matriz de responsabilidades ("Who Does What") que ajuda a documentar quem cuida de cada atividade.
+- Inclui uma matriz de responsabilidades, [Who Does What](https://www.dpconline.org/digipres/implement-digipres/community-archives-dp-toolkit/community-archives-toolkit-matrix/community-archives-who-does-what/community-archives-who-does-what-1), que ajuda a documentar quem cuida de cada atividade.

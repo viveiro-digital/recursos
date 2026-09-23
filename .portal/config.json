@@ -7,7 +7,14 @@
   },
   "navigation": {
     "labelOverrides": {
-      "preservacao-digital": "Preservação digital"
+      "acervos-comunitarios": "Acervos comunitários",
+      "preservacao-digital": "Preservação digital",
+      "politicas-de-preservacao": "Políticas de preservação",
+      "catalogacao-e-repositorios": "Catalogação e repositórios",
+      "metadados-e-integracao": "Metadados e integração",
+      "tratamento-de-arquivos": "Tratamento de arquivos",
+      "acesso-direitos-e-acessibilidade": "Acesso, direitos e acessibilidade",
+      "desenvolvimento-e-documentacao": "Desenvolvimento e documentação"
     }
   }
 }

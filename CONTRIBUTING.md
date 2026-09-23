@@ -52,7 +52,7 @@ O problema que o recurso ajuda a resolver e para quem ele se destina.
 Opcional: só quando o recurso foi usado. Conte em que contexto, o que funcionou, o que não funcionou e dicas para quem for usar.
 ```
 
-- `type`: `ferramenta`, `guia`, `padrão`, `artigo`, `iniciativa`, `comunidade` ou `acervo`.
+- `type`: `ferramenta`, `guia`, `padrão`, `política`, `publicação`, `legislação`, `iniciativa`, `comunidade` ou `acervo`.
 - A primeira linha depois do cabeçalho é sempre o link para a fonte oficial.
 - Use links relativos para outros arquivos do repositório, como `[texto](../outra-categoria/arquivo.md)`.
 
