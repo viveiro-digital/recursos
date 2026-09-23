@@ -1,0 +1,59 @@
+# Posts the report from the Index workflow as a pull request comment.
+#
+# Runs separately, on workflow_run, so pull requests from forks also get a comment:
+# the Index workflow has a read-only token on fork pull requests.
+# This workflow never checks out or runs pull request code; it only reads the report.
+# It keeps a single comment per pull request and updates it on each run.
+
+name: Index comment
+
+on:
+  workflow_run:
+    workflows: [Index]
+    types: [completed]
+
+permissions:
+  actions: read
+  pull-requests: write
+
+jobs:
+  comment:
+    if: github.event.workflow_run.event == 'pull_request' && github.event.workflow_run.conclusion != 'cancelled'
+    runs-on: ubuntu-latest
+    steps:
+      - name: Download report
+        uses: actions/download-artifact@v4
+        with:
+          name: index-report
+          run-id: ${{ github.event.workflow_run.id }}
+          github-token: ${{ github.token }}
+          path: report
+
+      - name: Post or update comment
+        env:
+          GH_TOKEN: ${{ github.token }}
+          REPO: ${{ github.repository }}
+          HEAD_SHA: ${{ github.event.workflow_run.head_sha }}
+        run: |
+          number=$(cat report/number)
+          if ! [[ "$number" =~ ^[0-9]+$ ]]; then
+            echo "Invalid pull request number in the artifact."
+            exit 1
+          fi
+
+          # The artifact comes from a run that may use fork code: confirm the
+          # report belongs to this pull request before commenting on it.
+          if ! gh api "repos/$REPO/pulls/$number/commits" --paginate --jq '.[].sha' | grep -qx "$HEAD_SHA"; then
+            echo "Commit $HEAD_SHA is not part of pull request #$number. Skipping."
+            exit 0
+          fi
+
+          comment_id=$(gh api "repos/$REPO/issues/$number/comments" --paginate \
+            --jq '.[] | select(.user.login == "github-actions[bot]" and (.body | startswith("<!-- index-report -->"))) | .id' \
+            | head -n 1)
+
+          if [ -n "$comment_id" ]; then
+            gh api -X PATCH "repos/$REPO/issues/comments/$comment_id" -F body=@report/report.md > /dev/null
+          else
+            gh api -X POST "repos/$REPO/issues/$number/comments" -F body=@report/report.md > /dev/null
+          fi

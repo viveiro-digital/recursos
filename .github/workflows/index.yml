@@ -1,0 +1,87 @@
+# Validates resource entries and rebuilds the README index from their frontmatter.
+#
+# - Every pull request is validated, including pull requests from forks.
+# - For branches in this repository, the rebuilt README is committed to the branch.
+# - Forks cannot receive pushes, so their index is rebuilt by the push to main after merge.
+# - The report goes to the job summary and, for pull requests, to an artifact that
+#   index-comment.yml posts as a comment.
+
+name: Index
+
+on:
+  pull_request:
+    paths:
+      - "**.md"
+      - ".portal/config.json"
+      - ".github/scripts/build_index.py"
+      - ".github/workflows/index.yml"
+  push:
+    branches: [main]
+    paths:
+      - "**.md"
+      - ".portal/config.json"
+      - ".github/scripts/build_index.py"
+      - ".github/workflows/index.yml"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: index-${{ github.head_ref || github.ref_name }}
+  cancel-in-progress: true
+
+jobs:
+  index:
+    runs-on: ubuntu-latest
+    env:
+      CAN_PUSH: ${{ github.event_name == 'push' || github.event.pull_request.head.repo.full_name == github.repository }}
+      REPORT_DIR: ${{ github.workspace }}/../index-report
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          # Branch name (not the merge commit) so the rebuilt README can be pushed back.
+          ref: ${{ env.CAN_PUSH == 'true' && (github.head_ref || github.ref_name) || '' }}
+
+      - name: Validate entries and rebuild index
+        id: build
+        run: |
+          if [ "$CAN_PUSH" = "true" ]; then
+            note="O índice é atualizado automaticamente neste branch."
+          else
+            note="Este pull request vem de um fork: o índice será atualizado automaticamente depois do merge."
+          fi
+          mkdir -p "$REPORT_DIR"
+          set +e
+          python3 .github/scripts/build_index.py --report "$REPORT_DIR/report.md" --note "$note"
+          echo "status=$?" >> "$GITHUB_OUTPUT"
+
+      - name: Write job summary
+        run: cat "$REPORT_DIR/report.md" >> "$GITHUB_STEP_SUMMARY"
+
+      - name: Save pull request number for the comment
+        if: github.event_name == 'pull_request'
+        run: echo "${{ github.event.pull_request.number }}" > "$REPORT_DIR/number"
+
+      - name: Upload report
+        if: github.event_name == 'pull_request'
+        uses: actions/upload-artifact@v4
+        with:
+          name: index-report
+          path: ${{ env.REPORT_DIR }}
+          retention-days: 1
+
+      - name: Commit README if the index changed
+        if: env.CAN_PUSH == 'true' && steps.build.outputs.status == '0'
+        run: |
+          if git diff --quiet README.md; then
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898333+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "Atualiza o índice do README"
+          git push
+
+      - name: Fail if validation failed
+        if: steps.build.outputs.status != '0'
+        run: exit 1
