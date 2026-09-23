@@ -35,12 +35,15 @@ jobs:
     runs-on: ubuntu-latest
     env:
       CAN_PUSH: ${{ github.event_name == 'push' || github.event.pull_request.head.repo.full_name == github.repository }}
-      REPORT_DIR: ${{ github.workspace }}/../index-report
     steps:
       - uses: actions/checkout@v4
         with:
           # Branch name (not the merge commit) so the rebuilt README can be pushed back.
           ref: ${{ env.CAN_PUSH == 'true' && (github.head_ref || github.ref_name) || '' }}
+
+      - name: Set report directory
+        # Outside the checkout, so the report never gets committed.
+        run: echo "REPORT_DIR=$RUNNER_TEMP/index-report" >> "$GITHUB_ENV"
 
       - name: Validate entries and rebuild index
         id: build
