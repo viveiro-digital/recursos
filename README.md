@@ -5,17 +5,21 @@ description: Recursos para organização e preservação de acervos digitais com
 
 # Viveiro — recursos
 
+## For English-speaking readers
+
+_Viveiro is an initiative, still taking shape, that supports communities in caring for their digital collections: organizing, preserving and sharing records of their histories while keeping autonomy over their materials. This repository is an open, collaborative collection of existing tools, guides, standards and initiatives for community digital archiving, organized by need. It is written in Brazilian Portuguese and licensed under CC BY 4.0._
+
+_If you want to know more, use your browser's translate function — as everyone in South America once did if they didn't understand something in English. Do your jumps._
+
+## Sobre
+
 Recursos para organização e preservação de acervos digitais comunitários.
 
 O Viveiro é uma iniciativa em formação que apoia comunidades no cuidado de seus acervos digitais: organizar, preservar e compartilhar registros de suas histórias, mantendo autonomia sobre os materiais, suas descrições e suas condições de acesso. Tem interesse especial em iniciativas de comunidades minoritárias e sub-representadas, cujas memórias enfrentam apagamento, invisibilidade ou pouco apoio institucional.
 
-O projeto nasce da experiência com a [Biblioteca de Zines](https://biblioteca-de-zines.com.br/), uma iniciativa gratuita e colaborativa dedicada a zines brasileiras, que será o primeiro piloto do Viveiro. O Viveiro é mantido por [Luma Montes](https://github.com/lumamontes).
+O projeto nasce da experiência com a [Biblioteca de Zines](https://biblioteca-de-zines.com.br/), uma iniciativa gratuita e colaborativa dedicada a zines brasileiras, que será o primeiro piloto do Viveiro.
 
-Este repositório reúne ferramentas, guias, padrões e iniciativas que já existem e ajudam nesse trabalho, organizados por necessidade.
-
-## Estágio atual
-
-A coleção está começando e vai crescer aos poucos. O Viveiro ainda não oferece ferramenta própria, hospedagem ou guarda de acervos.
+Este repositório reúne ferramentas, guias, padrões e iniciativas que já existem e ajudam nesse trabalho, organizados por necessidade. A coleção está começando e vai crescer aos poucos. O Viveiro ainda não oferece ferramenta própria, hospedagem ou guarda de acervos.
 
 ## Como ler as entradas
 
@@ -36,16 +40,21 @@ Estar nesta lista não significa parceria ou endosso.
 - [Acesso, direitos e acessibilidade](acesso-direitos-e-acessibilidade/): referências sobre acessibilidade, direitos autorais, proteção de dados e controle de acesso.
 - [Desenvolvimento e documentação](desenvolvimento-e-documentacao/): guias para organizar projetos abertos e escrever documentação.
 
-## Como contribuir
+## Para contribuir
 
-Sugestões e correções são bem-vindas. Abra uma issue ou um pull request com um arquivo novo; o passo a passo está em [CONTRIBUTING.md](CONTRIBUTING.md).
+Sugestões e correções são bem-vindas. Abra uma issue ou um pull request com um arquivo novo.
 
-## Contato
+- Leia o arquivo [Como contribuir](CONTRIBUTING.md)
+- Entenda nossa [Licença](LICENSE)
 
-bibliotecadezines@gmail.com
+Dúvidas? Fale com a gente pelo [nosso email](mailto:bibliotecadezines@gmail.com).
 
 ## Licença
 
 Os textos deste repositório estão sob a licença [Creative Commons Atribuição 4.0 Internacional (CC BY 4.0)](LICENSE). Você pode copiar, adaptar e reutilizar para qualquer finalidade, desde que dê crédito. Sugestão de crédito:
 
 > Viveiro — https://github.com/viveiro-digital/recursos
+
+## Mantenedora
+
+[![Avatar de lumamontes](https://github.com/lumamontes.png?size=50)](https://github.com/lumamontes)
