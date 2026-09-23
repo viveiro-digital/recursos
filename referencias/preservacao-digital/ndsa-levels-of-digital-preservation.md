@@ -2,7 +2,6 @@
 title: "NDSA Levels of Digital Preservation"
 description: "Referência para avaliar e melhorar práticas de preservação aos poucos."
 type: padrão
-status: mapeado
 tags: [preservacao-digital]
 created: 2026-09-23
 ---

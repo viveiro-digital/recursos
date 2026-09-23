@@ -15,17 +15,15 @@ Este repositório reúne ferramentas, guias, padrões e iniciativas que já exis
 
 ## Estágio atual
 
-A coleção está começando. A maior parte das entradas foi reunida nas pesquisas iniciais do projeto e ainda não foi estudada a fundo nem testada por nós. O Viveiro ainda não oferece ferramenta própria, hospedagem ou guarda de acervos.
+A coleção está começando e vai crescer aos poucos. O Viveiro ainda não oferece ferramenta própria, hospedagem ou guarda de acervos.
 
 ## Como ler as entradas
 
-Cada recurso tem um arquivo próprio, com link para a fonte oficial, uma descrição curta e a situação no Viveiro:
+Cada recurso tem um arquivo próprio, com link para a fonte oficial e uma descrição curta do que ele oferece e para quem. A ideia é compartilhar o que existe, tenhamos usado ou não.
 
-- **mapeado**: encontramos e registramos o recurso, mas ainda não o estudamos a fundo.
-- **em estudo**: estamos lendo ou avaliando o recurso.
-- **experimentado**: usamos o recurso em um contexto real ou de teste; a entrada diz onde e com que resultado.
+Quando o Viveiro já usou um recurso, a entrada ganha uma seção **Nossa experiência**, com impressões, orientações e o contexto em que foi usado.
 
-Estar nesta lista não significa recomendação, parceria ou endosso.
+Estar nesta lista não significa parceria ou endosso.
 
 ## Categorias
 

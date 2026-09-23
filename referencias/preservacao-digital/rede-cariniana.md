@@ -2,7 +2,6 @@
 title: "Rede Cariniana"
 description: "Rede brasileira de preservação digital ligada ao IBICT, com grupos de pesquisa na área."
 type: iniciativa
-status: mapeado
 tags: [preservacao-digital]
 created: 2026-09-23
 ---

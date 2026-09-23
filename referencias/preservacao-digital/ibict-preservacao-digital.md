@@ -2,7 +2,6 @@
 title: "IBICT — preservação digital"
 description: "Pesquisas e iniciativas brasileiras de preservação digital do Instituto Brasileiro de Informação em Ciência e Tecnologia."
 type: iniciativa
-status: mapeado
 tags: [preservacao-digital]
 created: 2026-09-23
 ---
@@ -14,4 +13,3 @@ Página do Instituto Brasileiro de Informação em Ciência e Tecnologia (IBICT)
 ## Observações
 
 - Veja também a [Rede Cariniana](rede-cariniana.md), coordenada pelo IBICT.
-- Link não verificado: a verificação automática em 2026-09-23 recebeu resposta 401. O site pode bloquear acessos automatizados; isso não significa que o recurso saiu do ar.

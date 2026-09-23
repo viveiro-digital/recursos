@@ -2,7 +2,6 @@
 title: "Manual de boas práticas de Preservação Digital — Fundação Biblioteca Nacional (2024)"
 description: "Referência brasileira da Fundação Biblioteca Nacional sobre práticas de preservação digital."
 type: guia
-status: mapeado
 tags: [preservacao-digital]
 created: 2026-09-23
 ---
@@ -13,5 +12,4 @@ Manual da Fundação Biblioteca Nacional, publicado em 2024, sobre práticas de 
 
 ## Observações
 
-- Leitura do documento pendente.
 - Arquivo PDF.

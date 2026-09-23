@@ -2,7 +2,6 @@
 title: "Community Archives Digital Preservation Toolkit"
 description: "Guia da Digital Preservation Coalition (DPC) para pequenas iniciativas que cuidam de arquivos digitais."
 type: guia
-status: mapeado
 tags: [preservacao-digital]
 created: 2026-09-23
 ---

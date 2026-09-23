@@ -2,7 +2,6 @@
 title: "LOCKSS"
 description: "Referência de preservação distribuída entre organizações."
 type: ferramenta
-status: mapeado
 tags: [preservacao-digital]
 created: 2026-09-23
 ---

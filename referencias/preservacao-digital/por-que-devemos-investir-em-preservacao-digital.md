@@ -2,7 +2,6 @@
 title: "Por que devemos investir em preservação digital?"
 description: "Texto introdutório da ABCD/USP sobre a importância da preservação digital."
 type: artigo
-status: mapeado
 tags: [preservacao-digital]
 created: 2026-09-23
 ---
