@@ -93,6 +93,7 @@ Este repositório reúne ferramentas, guias, padrões e iniciativas para organiz
 - [OpenRefine](tratamento-de-arquivos/openrefine.md): ferramenta para limpeza e padronização de dados em tabelas.
 - [rclone](tratamento-de-arquivos/rclone.md): ferramenta para copiar e sincronizar arquivos entre armazenamento local e em nuvem.
 - [restic](tratamento-de-arquivos/restic.md): ferramenta de backup com versões, deduplicação e criptografia.
+- [Teste de entrada](tratamento-de-arquivos/restic-duplicado.md): entrada de teste da validação automática.
 - [veraPDF](tratamento-de-arquivos/verapdf.md): validador de arquivos PDF/A e PDF/UA.
 
 ### Acesso, direitos e acessibilidade
