@@ -1,0 +1,10 @@
+{
+  "site": { "title": "Viveiro — recursos" },
+  "repo": { "url": "https://github.com/viveiro-digital/recursos" },
+  "navigation": {
+    "labelOverrides": {
+      "referencias": "Referências",
+      "preservacao-digital": "Preservação digital"
+    }
+  }
+}
