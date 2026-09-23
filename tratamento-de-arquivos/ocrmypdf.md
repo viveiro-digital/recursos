@@ -8,11 +8,20 @@ created: 2026-09-23
 
 [Fonte oficial](https://ocrmypdf.readthedocs.io/en/latest/)
 
-Ferramenta de linha de comando que aplica reconhecimento óptico de caracteres (OCR) a PDFs digitalizados e adiciona o texto reconhecido como uma camada invisível. O resultado permite busca, seleção de texto e leitura por leitores de tela. Pode gerar arquivos em PDF/A.
+Ferramenta que adiciona uma camada de texto reconhecido (OCR) a PDFs digitalizados, para que possam ser pesquisados. Usa o Tesseract como mecanismo de reconhecimento.
+
+## Funcionalidades
+
+- Geração de arquivos em PDF/A.
+- Reconhecimento em vários idiomas, com pacotes de idioma instaláveis, incluindo o português.
+- Tratamento de imagem e otimização do tamanho do PDF.
+- Processamento em lote.
+
+Textos manuscritos ou em colagem podem ter reconhecimento baixo.
 
 ## Observações
 
-- Gratuita e de código aberto.
-- Requer uso do terminal.
-- Reconhece textos em português.
-- Textos manuscritos ou em colagem podem ter reconhecimento baixo.
+- **Custo:** gratuito.
+- **Instalação:** programa para computador; também disponível como imagem Docker.
+- **Conhecimento técnico:** uso do terminal.
+- **Licença:** MPL 2.0.

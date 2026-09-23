@@ -8,8 +8,18 @@ created: 2026-09-23
 
 [Fonte oficial](https://groups.niso.org/higherlogic/ws/public/download/17446/Understanding%20Metadata.pdf)
 
-Publicação da National Information Standards Organization (NISO), escrita por Jenn Riley, que apresenta o que são metadados, seus tipos e os principais padrões. Não pressupõe formação em biblioteconomia ou ciência da informação.
+Introdução a metadados escrita por Jenn Riley e publicada em 2017 pela National Information Standards Organization (NISO), em uma série de guias introdutórios.
+
+## Conteúdo
+
+- Metadados no dia a dia e em acervos de patrimônio cultural.
+- Tipos de metadados.
+- Formas de guardar e compartilhar metadados: bancos de dados relacionais, XML, dados ligados e RDF.
+- Vocabulários controlados e padrões de conteúdo.
+- Exemplos de padrões, como Dublin Core, Schema.org, MARC, MODS, EAD, PREMIS e TEI.
 
 ## Observações
 
-- Arquivo PDF.
+- **Custo:** acesso gratuito.
+- **Licença:** CC BY-NC 4.0.
+- **Formato:** PDF, 49 páginas.

@@ -8,7 +8,16 @@ created: 2026-09-23
 
 [Fonte oficial](https://openpreservation.org/)
 
-Fundação e comunidade que mantém ferramentas abertas de preservação digital, como o veraPDF e o JHOVE, usadas para identificar e validar formatos de arquivo.
+Organização sem fins lucrativos, baseada em associação de membros, criada em 2010 para dar continuidade ao projeto europeu Planets. Até 2014, chamava-se Open Planets Foundation. Coordena o desenvolvimento de ferramentas de preservação digital de código aberto.
+
+## Atividades
+
+- Manutenção de ferramentas como JHOVE, veraPDF, jpylyzer e fido.
+- Eventos, webinars, grupos de membros e publicações.
+
+## Observações
+
+- **Custo:** ferramentas gratuitas. A associação é paga, com valores por categoria.
 
 ## Veja também
 

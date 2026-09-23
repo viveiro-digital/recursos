@@ -8,9 +8,18 @@ created: 2026-09-23
 
 [Fonte oficial](https://openrefine.org/)
 
-Ferramenta para limpar, transformar e reconciliar dados em tabelas, como planilhas de catálogo. Agrupa variações de um mesmo valor, por exemplo, um nome de autor escrito de formas diferentes. Registra o histórico de alterações, que pode ser revisto e desfeito. Roda no navegador, com os dados armazenados localmente.
+Ferramenta de código aberto para limpar dados desorganizados e convertê-los entre formatos. Os dados são processados no próprio computador.
+
+## Funcionalidades
+
+- Facetas para filtrar grandes conjuntos de dados.
+- Agrupamento (*clustering*) de valores parecidos, como um nome escrito de formas diferentes.
+- Reconciliação com bases externas, como o Wikidata.
+- Histórico ilimitado para desfazer e refazer alterações.
 
 ## Observações
 
-- Gratuita e de código aberto.
-- Não requer programação.
+- **Custo:** gratuito.
+- **Instalação:** programa para computador, usado pelo navegador.
+- **Conhecimento técnico:** não requer programação.
+- **Licença:** BSD 3-Clause.

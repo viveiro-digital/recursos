@@ -1,6 +1,6 @@
 ---
 title: "Local Contexts"
-description: "Organização que mantém as etiquetas TK e BC para direitos culturais indígenas."
+description: "Iniciativa que mantém etiquetas digitais para direitos culturais indígenas sobre coleções e dados."
 type: iniciativa
 tags: [acervos-comunitarios]
 created: 2026-09-23
@@ -8,8 +8,15 @@ created: 2026-09-23
 
 [Fonte oficial](https://localcontexts.org/)
 
-Organização que mantém as etiquetas *Traditional Knowledge* (TK) e *Biocultural* (BC). As etiquetas são marcações digitais que comunidades indígenas e locais aplicam a materiais para indicar regras de uso, atribuição e acesso não cobertas por licenças de direitos autorais.
+Iniciativa internacional que apoia comunidades indígenas na afirmação de autoridade cultural sobre coleções e dados de patrimônio.
+
+## Funcionalidades
+
+- **Etiquetas TK e BC** (*Traditional Knowledge* e *Biocultural*): marcações que comunidades personalizam e aplicam às suas coleções, com informações de proveniência, protocolos e permissões de acesso, uso e circulação.
+- **Avisos** (*Notices*): marcações que instituições e pesquisadores aplicam para indicar materiais relacionados a comunidades indígenas.
+- **Local Contexts Hub**: plataforma online para criar etiquetas e avisos, com contas para comunidades, instituições e pesquisadores.
 
 ## Observações
 
-- Voltada a comunidades indígenas e locais.
+- **Custo:** não informado na fonte oficial.
+- **Instalação:** não requer (serviço online).

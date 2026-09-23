@@ -8,9 +8,18 @@ created: 2026-09-23
 
 [Fonte oficial](https://www.accesstomemory.org/en/)
 
-Software livre para descrever acervos arquivísticos e publicá-los na web. Segue normas de descrição arquivística, como a ISAD(G), e organiza os documentos em níveis hierárquicos (fundo, série, item). É mantido pela Artefactual Systems.
+Aplicação web de código aberto para descrição arquivística e acesso, com suporte a vários idiomas e a vários repositórios. Foi criada com apoio do Conselho Internacional de Arquivos (ICA) e é desenvolvida pela Artefactual Systems.
+
+## Funcionalidades
+
+- Descrição segundo normas arquivísticas, com organização hierárquica dos documentos.
+- Importação e exportação nos formatos EAD, EAC-CPF, CSV e SKOS.
+- Interface e conteúdo traduzíveis para vários idiomas.
+- Uso por uma única instituição ou por uma rede de instituições.
 
 ## Observações
 
-- Voltado a arquivos com descrição hierárquica.
-- Requer servidor próprio e conhecimento de administração de sistemas.
+- **Custo:** gratuito.
+- **Instalação:** requer servidor próprio.
+- **Conhecimento técnico:** administração de servidores.
+- **Licença:** GNU AGPL 3.0.

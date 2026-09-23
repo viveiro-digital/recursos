@@ -12,4 +12,9 @@ Página da Biblioteca Nacional Digital (BNDigital) sobre as práticas de preserv
 
 ## Observações
 
-- Em português.
+- **Custo:** acesso gratuito.
+- **Idioma:** português.
+
+## Veja também
+
+- [Manual de boas práticas de preservação digital da Fundação Biblioteca Nacional (2024)](manual-de-boas-praticas-de-preservacao-digital-fbn.md)

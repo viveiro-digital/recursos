@@ -8,8 +8,25 @@ created: 2026-09-23
 
 [Fonte oficial](https://www.ndsa.org/publications/levels-of-digital-preservation/)
 
-Modelo da National Digital Stewardship Alliance (NDSA) para avaliar as práticas de preservação de um acervo e planejar melhorias. Organiza as práticas em cinco áreas (armazenamento, integridade, controle, metadados e conteúdo) e quatro níveis, do mais básico ao mais completo.
+Modelo da National Digital Stewardship Alliance (NDSA) para avaliar e planejar as práticas de preservação digital de um acervo. A versão atual, 2.1, é de março de 2026.
+
+## Estrutura
+
+A matriz cruza cinco áreas com quatro níveis:
+
+- Áreas: armazenamento, integridade, controle, metadados e conteúdo.
+- Níveis: conhecer o conteúdo, proteger o conteúdo, monitorar o conteúdo e sustentar o conteúdo.
+
+## Conteúdo
+
+- Matriz dos níveis, em versão colorida e em preto e branco.
+- Diretrizes de implementação e definições.
+- Ferramenta de avaliação, em planilha.
+- Guia de sustentabilidade ambiental.
+- Perguntas frequentes.
 
 ## Observações
 
-- Aplicável a acervos de diferentes portes.
+- **Custo:** acesso gratuito.
+- **Licença:** CC BY-SA 4.0.
+- **Idioma:** a versão 2.0 tem tradução para o português.

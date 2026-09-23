@@ -8,12 +8,21 @@ created: 2026-09-23
 
 [Fonte oficial](https://omeka.org/s/)
 
-Software livre para publicar coleções digitais na web, com exposições, vocabulários de metadados, como o Dublin Core, e relações entre itens. Permite manter vários sites a partir da mesma instalação.
+Plataforma de publicação web para coleções digitais de patrimônio cultural, desenvolvida pela Digital Scholar. A mesma organização desenvolve o Omeka Classic, para um único site.
+
+## Funcionalidades
+
+- Vários sites a partir de uma única instalação.
+- Publicação de itens com dados abertos ligados (*linked open data*) e vocabulários como o Dublin Core.
+- Modelos de descrição compatíveis com a Digital Public Library of America (DPLA).
+- Módulos para mapas, coleta de contribuições e importação, e temas responsivos.
 
 ## Observações
 
-- Requer servidor com PHP e MySQL.
-- O Omeka Classic, da mesma organização, é uma versão mais simples, para um único site.
+- **Custo:** gratuito.
+- **Instalação:** requer servidor próprio.
+- **Conhecimento técnico:** administração de servidores.
+- **Licença:** GNU GPL 3.0.
 
 ## Veja também
 

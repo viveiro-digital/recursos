@@ -8,8 +8,17 @@ created: 2026-09-23
 
 [Fonte oficial](https://www.collectiveaccess.org/)
 
-Software livre para catalogar e publicar coleções de museus, arquivos e outros acervos. É formado por dois módulos: Providence, para catalogação, e Pawtucket, para publicação na web. Os campos de descrição são configuráveis.
+Software livre para catalogar e publicar coleções de museus e arquivos. É mantido pela empresa Whirl-i-Gig, com contribuições da comunidade, e usado por centenas de instituições.
+
+## Funcionalidades
+
+- **Providence**: aplicação web de catalogação, com padrões de metadados pré-configurados e campos, telas e fluxos de trabalho personalizáveis.
+- **Pawtucket2**: módulo opcional de publicação na web, com filtros, mapas, linhas do tempo e visualizações.
+- Operações em lote.
 
 ## Observações
 
-- Requer servidor próprio e configuração inicial extensa.
+- **Custo:** gratuito. A Whirl-i-Gig oferece desenvolvimento e hospedagem pagos.
+- **Instalação:** requer servidor próprio.
+- **Conhecimento técnico:** administração de servidores.
+- **Licença:** GNU GPL 3.0.

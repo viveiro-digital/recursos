@@ -8,12 +8,23 @@ created: 2026-09-23
 
 [Fonte oficial](https://www.lockss.org/use-lockss/how-lockss-works)
 
-LOCKSS (*Lots of Copies Keep Stuff Safe*) é um sistema de preservação distribuída: várias organizações mantêm cópias do mesmo conteúdo e as comparam periodicamente para detectar e corrigir danos. A página explica o funcionamento do sistema.
+LOCKSS (*Lots of Copies Keep Stuff Safe*) é um sistema de preservação digital operado pelas Stanford Libraries. Instituições formam redes em que cada participante mantém cópias do mesmo conteúdo.
+
+## Funcionalidades
+
+- **Ingestão**: coleta de conteúdo por FTP, coleta web, OAI-PMH ou rsync, inclusive de repositórios institucionais.
+- **Gestão**: interface web para escolher o conteúdo e acompanhar seu estado.
+- **Preservação**: as cópias são comparadas entre os participantes; uma cópia danificada é reparada a partir das outras.
+- **Acesso**: entrega do conteúdo por proxy, por endereço local ou por resolvedores OpenURL.
+
+Há redes como a Global LOCKSS Network, a CLOCKSS e a PKP PN. No Brasil, a Rede Cariniana usa o LOCKSS.
 
 ## Observações
 
-- Funciona em rede, entre instituições participantes.
+- **Instalação:** requer servidor próprio e participação em uma rede.
+- **Conhecimento técnico:** administração de servidores.
+- **Licença:** código aberto.
 
 ## Veja também
 
-- [Rede Cariniana](rede-cariniana.md), rede brasileira que usa o LOCKSS
+- [Rede Cariniana](rede-cariniana.md)

@@ -12,7 +12,8 @@ Página do Instituto Brasileiro de Informação em Ciência e Tecnologia (IBICT)
 
 ## Observações
 
-- Em português.
+- **Custo:** acesso gratuito.
+- **Idioma:** português.
 
 ## Veja também
 

@@ -8,11 +8,18 @@ created: 2026-09-23
 
 [Fonte oficial](https://cariniana.ibict.br/)
 
-Rede brasileira de preservação digital coordenada pelo Instituto Brasileiro de Informação em Ciência e Tecnologia (IBICT). Usa o LOCKSS para manter cópias dos acervos de instituições participantes. O site reúne informações sobre a rede e seus grupos de pesquisa.
+Rede brasileira de serviços de preservação digital, coordenada pelo Instituto Brasileiro de Informação em Ciência e Tecnologia (IBICT), vinculado ao Ministério da Ciência, Tecnologia e Inovação. Usa o LOCKSS para manter cópias do conteúdo das instituições participantes, entre elas universidades federais, a Fiocruz, a FGV, a Biblioteca Nacional e a SciELO.
+
+## Atividades
+
+- Preservação de repositórios e de publicações, inclusive revistas em Open Journal Systems (OJS).
+- Cursos de formação em preservação digital.
+- Modelos de política para repositórios.
 
 ## Observações
 
-- Em português.
+- **Custo:** não informado na fonte oficial.
+- **Idioma:** português.
 
 ## Veja também
 
