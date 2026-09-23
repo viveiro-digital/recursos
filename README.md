@@ -27,9 +27,7 @@ Estar nesta lista não significa parceria ou endosso.
 
 ## Categorias
 
-- [Preservação digital](referencias/preservacao-digital/README.md): práticas, modelos e iniciativas para manter materiais digitais acessíveis e recuperáveis ao longo do tempo.
-
-Veja também o [índice de referências](referencias/README.md).
+- [Preservação digital](preservacao-digital/README.md): práticas, modelos e iniciativas para manter materiais digitais acessíveis e recuperáveis ao longo do tempo.
 
 ## Como contribuir
 
