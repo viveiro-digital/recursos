@@ -13,8 +13,13 @@
       "catalogacao-e-repositorios": "Catalogação e repositórios",
       "metadados-e-integracao": "Metadados e integração",
       "tratamento-de-arquivos": "Tratamento de arquivos",
-      "acesso-direitos-e-acessibilidade": "Acesso, direitos e acessibilidade",
-      "desenvolvimento-e-documentacao": "Desenvolvimento e documentação"
+      "acesso-direitos-e-acessibilidade": "Acesso, direitos e acessibilidade"
+    },
+    "blocklist": {
+      "prefixes": [
+        "AGENTS.md",
+        "CLAUDE.md"
+      ]
     }
   }
 }

@@ -13,21 +13,23 @@ _If you want to know more, use your browser's translate function — as everyone
 
 ## Sobre
 
-Recursos para organização e preservação de acervos digitais comunitários.
+O Viveiro é uma iniciativa em formação que apoia comunidades no cuidado de seus acervos digitais: organizar, preservar e compartilhar registros de suas histórias, com autonomia sobre os materiais, suas descrições e suas condições de acesso. O foco são iniciativas de comunidades minoritárias e sub-representadas, cujas memórias estão sujeitas a apagamento, invisibilidade ou pouco apoio institucional.
 
-O Viveiro é uma iniciativa em formação que apoia comunidades no cuidado de seus acervos digitais: organizar, preservar e compartilhar registros de suas histórias, mantendo autonomia sobre os materiais, suas descrições e suas condições de acesso. Tem interesse especial em iniciativas de comunidades minoritárias e sub-representadas, cujas memórias enfrentam apagamento, invisibilidade ou pouco apoio institucional.
+O projeto surgiu da experiência com a [Biblioteca de Zines](https://biblioteca-de-zines.com.br/), iniciativa gratuita e colaborativa dedicada a zines brasileiras, que será o primeiro piloto do Viveiro.
 
-O projeto nasce da experiência com a [Biblioteca de Zines](https://biblioteca-de-zines.com.br/), uma iniciativa gratuita e colaborativa dedicada a zines brasileiras, que será o primeiro piloto do Viveiro.
-
-Este repositório reúne ferramentas, guias, padrões e iniciativas que já existem e ajudam nesse trabalho, organizados por necessidade. A coleção está começando e vai crescer aos poucos. O Viveiro ainda não oferece ferramenta própria, hospedagem ou guarda de acervos.
+Este repositório reúne ferramentas, guias, padrões e iniciativas existentes para organização e preservação de acervos digitais, agrupados por categoria. A coleção está em construção. O Viveiro não oferece ferramenta própria, hospedagem ou guarda de acervos.
 
 ## Como ler as entradas
 
-Cada recurso tem um arquivo próprio, com link para a fonte oficial e uma descrição curta do que ele oferece e para quem. A ideia é compartilhar o que existe, tenhamos usado ou não.
+Cada recurso tem um arquivo próprio, com link para a fonte oficial e uma descrição do que o recurso é e faz. A lista inclui recursos independentemente de terem sido usados pelo Viveiro.
 
-Quando o Viveiro já usou um recurso, a entrada ganha uma seção **Nossa experiência**, com impressões, orientações e o contexto em que foi usado.
+As entradas podem ter as seguintes seções:
 
-Estar nesta lista não significa parceria ou endosso.
+- **Observações:** público a que o recurso se destina, requisitos de uso, idioma e formato.
+- **Veja também:** links relacionados.
+- **Uso no Viveiro:** contexto, resultados e limitações, para recursos que o Viveiro usou.
+
+Salvo indicação, os recursos estão em inglês. A inclusão de um recurso não indica parceria ou endosso.
 
 ## Categorias
 
@@ -38,16 +40,12 @@ Estar nesta lista não significa parceria ou endosso.
 - [Metadados e integração](metadados-e-integracao/): vocabulários, formatos e protocolos para descrever materiais e trocar dados entre sistemas.
 - [Tratamento de arquivos](tratamento-de-arquivos/): ferramentas para limpar dados, identificar e validar formatos, processar, copiar e recuperar arquivos.
 - [Acesso, direitos e acessibilidade](acesso-direitos-e-acessibilidade/): referências sobre acessibilidade, direitos autorais, proteção de dados e controle de acesso.
-- [Desenvolvimento e documentação](desenvolvimento-e-documentacao/): guias para organizar projetos abertos e escrever documentação.
 
 ## Para contribuir
 
-Sugestões e correções são bem-vindas. Abra uma issue ou um pull request com um arquivo novo.
+Para sugerir, corrigir ou acrescentar um recurso, abra uma issue ou um pull request. As instruções estão em [Como contribuir](CONTRIBUTING.md).
 
-- Leia o arquivo [Como contribuir](CONTRIBUTING.md)
-- Entenda nossa [Licença](LICENSE)
-
-Dúvidas? Fale com a gente pelo [nosso email](mailto:bibliotecadezines@gmail.com).
+Contato: [bibliotecadezines@gmail.com](mailto:bibliotecadezines@gmail.com)
 
 ## Licença
 

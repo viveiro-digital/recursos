@@ -1,6 +1,6 @@
 ---
 title: "Open Preservation Foundation"
-description: "Comunidade e recursos de preservação digital."
+description: "Fundação que mantém ferramentas abertas de preservação digital."
 type: comunidade
 tags: [preservacao-digital]
 created: 2026-09-23
@@ -8,10 +8,10 @@ created: 2026-09-23
 
 [Fonte oficial](https://openpreservation.org/)
 
-Fundação e comunidade que mantém ferramentas abertas de preservação digital e reúne quem trabalha na área.
+Fundação e comunidade que mantém ferramentas abertas de preservação digital, como o veraPDF e o JHOVE, usadas para identificar e validar formatos de arquivo.
 
-Veja também o [catálogo de ferramentas da OPF](https://openpreservation.org/tools/), com ferramentas de identificação e validação de arquivos, e os [repositórios da OPF no GitHub](https://github.com/openpreserve).
+## Veja também
 
-## Observações
-
-- Em inglês.
+- [Catálogo de ferramentas da OPF](https://openpreservation.org/tools/)
+- [Repositórios da OPF no GitHub](https://github.com/openpreserve)
+- [veraPDF](../tratamento-de-arquivos/verapdf.md)

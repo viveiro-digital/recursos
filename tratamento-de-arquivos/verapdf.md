@@ -1,6 +1,6 @@
 ---
 title: "veraPDF"
-description: "Validação de PDFs conforme os perfis suportados."
+description: "Validador de arquivos PDF/A."
 type: ferramenta
 tags: [tratamento-de-arquivos]
 created: 2026-09-23
@@ -8,8 +8,8 @@ created: 2026-09-23
 
 [Fonte oficial](https://verapdf.org/)
 
-Validador de PDF, incluindo os perfis PDF/A usados em preservação, conforme os perfis suportados pela ferramenta.
+Validador que verifica se arquivos PDF seguem os perfis PDF/A, versões do formato PDF definidas para arquivamento de longo prazo. É desenvolvido pela Open Preservation Foundation e pela PDF Association.
 
 ## Observações
 
-- Em inglês.
+- Gratuito e de código aberto, com interface gráfica e linha de comando.

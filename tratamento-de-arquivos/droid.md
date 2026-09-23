@@ -1,6 +1,6 @@
 ---
 title: "DROID"
-description: "Identificação de formatos de arquivos digitais."
+description: "Ferramenta para identificação de formatos de arquivo."
 type: ferramenta
 tags: [tratamento-de-arquivos]
 created: 2026-09-23
@@ -8,8 +8,9 @@ created: 2026-09-23
 
 [Fonte oficial](https://github.com/digital-preservation/droid)
 
-Ferramenta dos Arquivos Nacionais do Reino Unido para identificar o formato de arquivos digitais.
+Ferramenta dos Arquivos Nacionais do Reino Unido que identifica o formato de cada arquivo pelo conteúdo, e não apenas pela extensão, usando o registro de formatos PRONOM. Gera relatórios de pastas inteiras.
 
 ## Observações
 
-- Em inglês.
+- Gratuita, com interface gráfica.
+- Requer Java.

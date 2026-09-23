@@ -1,6 +1,6 @@
 ---
 title: "Mukurtu"
-description: "Plataforma de gestão de patrimônio cultural em contextos comunitários."
+description: "Plataforma livre para patrimônio cultural digital com protocolos de acesso definidos pela comunidade."
 type: ferramenta
 tags: [catalogacao-e-repositorios]
 created: 2026-09-23
@@ -8,8 +8,9 @@ created: 2026-09-23
 
 [Fonte oficial](https://mukurtu.org/)
 
-Plataforma para gestão e compartilhamento de patrimônio cultural digital em contextos comunitários.
+Plataforma livre desenvolvida com comunidades indígenas para gerir e compartilhar patrimônio cultural digital. Permite definir protocolos culturais: regras sobre quem pode ver cada item, conforme as normas da comunidade.
 
 ## Observações
 
-- Em inglês.
+- Baseada em Drupal.
+- Requer servidor próprio e conhecimento técnico.

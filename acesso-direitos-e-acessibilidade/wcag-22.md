@@ -1,6 +1,6 @@
 ---
 title: "WCAG 2.2"
-description: "Diretrizes para avaliar a acessibilidade de interfaces web."
+description: "Diretrizes do W3C para acessibilidade de conteúdo web, versão 2.2."
 type: padrão
 tags: [acesso-direitos-e-acessibilidade]
 created: 2026-09-23
@@ -8,8 +8,10 @@ created: 2026-09-23
 
 [Fonte oficial](https://www.w3.org/TR/WCAG22/)
 
-Diretrizes de acessibilidade para conteúdo web do W3C, versão 2.2. Usadas para avaliar se um site pode ser usado por pessoas com deficiência.
+Diretrizes de acessibilidade para conteúdo web (*Web Content Accessibility Guidelines*, WCAG) do W3C, versão 2.2. Definem critérios para que sites possam ser usados por pessoas com deficiência, como navegação por teclado, compatibilidade com leitores de tela e texto alternativo para imagens.
 
-## Observações
+Em acervos de materiais visuais, como zines, os critérios se aplicam, por exemplo, a descrições de imagem e transcrições.
 
-- Em inglês.
+## Veja também
+
+- [How to Meet WCAG](https://www.w3.org/WAI/WCAG22/quickref/), referência rápida filtrável dos critérios

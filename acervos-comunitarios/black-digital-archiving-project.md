@@ -1,6 +1,6 @@
 ---
 title: "Black Digital Archiving Project"
-description: "Projeto sobre memória negra e colaboração na construção de acervos digitais."
+description: "Projeto sobre histórias negras e construção comunitária de acervos digitais."
 type: iniciativa
 tags: [acervos-comunitarios]
 created: 2026-09-23
@@ -8,6 +8,8 @@ created: 2026-09-23
 
 [Fonte oficial](https://blackdigitalarchiving.netlify.app/)
 
-Projeto de investigação e colaboração em torno de histórias negras e da construção comunitária de acervos digitais.
+Projeto de pesquisa e colaboração sobre histórias negras e a construção comunitária de acervos digitais.
 
-Veja também o [artigo do grupo Acervos Digitais e Pesquisa da FAU/USP](https://www.acervosdigitais.fau.usp.br/black-digital-archiving-project-memoria-negra-tecnologia-comunitaria/) sobre o projeto.
+## Veja também
+
+- [Artigo sobre o projeto](https://www.acervosdigitais.fau.usp.br/black-digital-archiving-project-memoria-negra-tecnologia-comunitaria/), do grupo Acervos Digitais e Pesquisa da FAU/USP

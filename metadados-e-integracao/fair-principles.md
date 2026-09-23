@@ -8,8 +8,10 @@ created: 2026-09-23
 
 [Fonte oficial](https://www.gofair.foundation/fair-principles)
 
-Princípios para que dados sejam localizáveis (Findable), acessíveis (Accessible), interoperáveis (Interoperable) e reutilizáveis (Reusable).
+Princípios para que dados sejam localizáveis (*Findable*), acessíveis (*Accessible*), interoperáveis (*Interoperable*) e reutilizáveis (*Reusable*). Foram publicados em 2016 e são usados como referência na gestão de dados de pesquisa.
 
-## Observações
+Na prática, envolvem identificadores estáveis, metadados descritivos e licenças explícitas.
 
-- Em inglês.
+## Veja também
+
+- [Princípios CARE](../acervos-comunitarios/care-principles.md)
