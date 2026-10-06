@@ -3,11 +3,16 @@
     "title": "Viveiro — recursos",
     "description": "Recursos para organização e preservação de acervos digitais comunitários.",
     "logo": {
-      "src": ".upcontent/logo.svg",
+      "src": ".upcontent/brand/viveiro-symbol.svg",
       "alt": "Viveiro — recursos"
     },
-    "favicon": ".upcontent/favicon.svg",
-    "url": "https://viveiro-digital.github.io/recursos"
+    "favicon": ".upcontent/brand/viveiro-symbol.svg",
+    "url": "https://viveiro-digital.github.io/recursos",
+    "locale": "pt-BR",
+    "socialImage": "https://viveiro-digital.github.io/recursos/assets/readme/viveiro-pattern.svg"
+  },
+  "seo": {
+    "enabled": true
   },
   "repo": {
     "url": "https://github.com/viveiro-digital/recursos"
@@ -17,6 +22,8 @@
   },
   "navigation": {
     "labelOverrides": {
+      "index": "Getting started",
+      "readme": "Getting started",
       "acervos-comunitarios": "Acervos comunitários",
       "preservacao-digital": "Preservação digital",
       "politicas-de-preservacao": "Políticas de preservação",
@@ -30,6 +37,9 @@
         ".github/",
         "AGENTS.md",
         "CLAUDE.md"
+      ],
+      "exact": [
+        "README.md"
       ]
     }
   }

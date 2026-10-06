@@ -26,9 +26,9 @@ Cada recurso tem um arquivo próprio, na pasta da sua categoria. As categorias e
 4. Preencha o arquivo conforme o modelo da próxima seção.
 5. Abra o pull request.
 
-O índice do README é gerado automaticamente a partir dos campos `title` e `description` de cada entrada. Ao abrir o pull request, uma GitHub Action valida as entradas e atualiza o índice. O resultado aparece em um comentário no pull request, atualizado a cada novo commit, e no resumo da execução da Action. O trecho entre os marcadores `indice:inicio` e `indice:fim` não deve ser editado à mão.
+O portal publicado é gerado pelo Upcontent a partir dos arquivos Markdown e da configuração em `.upcontent/config.json`.
 
-A validação falha, com a lista de problemas, nos seguintes casos:
+A entrada deve atender às seguintes regras:
 
 - Título ou link da fonte oficial igual ao de outra entrada.
 - Campo `title`, `description`, `type` ou `tags` ausente.
@@ -36,9 +36,7 @@ A validação falha, com a lista de problemas, nos seguintes casos:
 - `type` fora dos valores aceitos, ou `tags` sem a pasta da categoria.
 - Primeira linha depois do cabeçalho diferente de `[Fonte oficial](...)`.
 - Nome de arquivo com maiúsculas, acentos ou espaços.
-- Pasta que não está registrada como categoria em `.portal/config.json`.
-
-Para validar e ver o índice localmente, execute `python3 .github/scripts/build_index.py`.
+- Pasta que não está registrada como categoria no repositório.
 
 ## Modelo de entrada
 

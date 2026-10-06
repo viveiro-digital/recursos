@@ -19,19 +19,17 @@ Escreva a regra de forma geral, com o motivo quando ele não for óbvio, para qu
 - Registre em `docs/fontes/README.md` as fontes que não puderam ser lidas, os links trocados e as informações que vieram de fontes secundárias.
 - Ao revisar muitas entradas, mostre antes duas ou três de tipos diferentes à mantenedora e aplique o formato ao restante só depois da aprovação.
 
-## Índice e validação
+## Índice e publicação
 
-- O índice do README é gerado por `.github/scripts/build_index.py` a partir do frontmatter. Depois de criar, remover ou editar entradas, execute o script em vez de editar o índice à mão. O script também valida as entradas; corrija todos os problemas que ele listar.
-- Uma categoria nova precisa ser registrada em `.portal/config.json`, que define a ordem e os nomes das categorias no índice.
+- A publicação do portal é feita pelo workflow do Upcontent em `.github/workflows/deploy-docs.yml`.
+- A configuração do portal fica em `.upcontent/config.json`. Mantenha os caminhos de assets e as opções de SEO compatíveis com o contrato do Upcontent.
 - Ao remover uma entrada, registre o item e o motivo em `docs/fontes/README.md`.
 
 ## Automação
 
 - Código (scripts, workflows, comentários) é escrito em inglês, conforme a ADR 0001 do repositório `docs`. Mensagens exibidas a quem contribui (erros de validação, relatórios, comentários em pull requests), textos, entradas e mensagens de commit ficam em português.
 - Para testar uma mudança nas GitHub Actions, abra um pull request de teste, confira o resultado e feche sem merge, apagando o branch.
-- O workflow `index-comment.yml` roda por `workflow_run`, que sempre usa a versão do arquivo em `main`. Mudanças nele só valem depois do merge.
 - `actions/upload-artifact` não aceita caminhos com `..`. Use `$RUNNER_TEMP` para arquivos temporários fora do checkout.
-- Prefira automatizar passos repetitivos (como o índice) a pedir que contribuidores os façam à mão.
 
 ## Mudanças de estrutura
 
