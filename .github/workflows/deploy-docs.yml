@@ -1,0 +1,14 @@
+name: Publish documentation
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+jobs:
+  publish:
+    uses: lumamontes/upcontent/.github/workflows/reusable-pages.yml@main
+    permissions:
+      contents: read
+      pages: write
+      id-token: write
