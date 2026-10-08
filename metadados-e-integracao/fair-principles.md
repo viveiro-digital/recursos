@@ -6,7 +6,7 @@ tags: [metadados-e-integracao]
 created: 2026-09-23
 ---
 
-[Fonte oficial](https://www.gofair.foundation/fair-principles)
+[https://www.gofair.foundation/fair-principles](https://www.gofair.foundation/fair-principles)
 
 Princípios para melhorar a localização, o acesso, a interoperabilidade e o reuso de recursos digitais. Foram publicados em 2016 na revista *Scientific Data* (Wilkinson et al.). A página oficial é mantida pela GO FAIR Foundation, com sede em Leiden, nos Países Baixos.
 

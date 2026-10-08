@@ -6,7 +6,7 @@ tags: [preservacao-digital]
 created: 2026-09-23
 ---
 
-[Fonte oficial](https://www.abcd.usp.br/noticias/por-que-devemos-investir-em-preservacao-digital/)
+[https://www.abcd.usp.br/noticias/por-que-devemos-investir-em-preservacao-digital/](https://www.abcd.usp.br/noticias/por-que-devemos-investir-em-preservacao-digital/)
 
 Texto de Elisabeth Dudziak, da Agência de Bibliotecas e Coleções Digitais da USP (ABCD/USP), publicado em abril de 2026. Compila conteúdo de um webinar da CLOCKSS.
 

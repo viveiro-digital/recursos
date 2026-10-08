@@ -6,7 +6,7 @@ tags: [tratamento-de-arquivos]
 created: 2026-09-23
 ---
 
-[Fonte oficial](https://github.com/digital-preservation/droid)
+[https://github.com/digital-preservation/droid](https://github.com/digital-preservation/droid)
 
 Ferramenta dos Arquivos Nacionais do Reino Unido (The National Archives) que identifica o formato de arquivos em lote, pelo conteúdo e não apenas pela extensão. Usa as assinaturas de formato do registro PRONOM.
 

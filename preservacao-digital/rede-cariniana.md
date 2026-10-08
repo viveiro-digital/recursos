@@ -6,7 +6,7 @@ tags: [preservacao-digital]
 created: 2026-09-23
 ---
 
-[Fonte oficial](https://cariniana.ibict.br/)
+[https://cariniana.ibict.br/](https://cariniana.ibict.br/)
 
 Rede brasileira de serviços de preservação digital, coordenada pelo Instituto Brasileiro de Informação em Ciência e Tecnologia (IBICT), vinculado ao Ministério da Ciência, Tecnologia e Inovação. Usa o LOCKSS para manter cópias do conteúdo das instituições participantes, entre elas universidades federais, a Fiocruz, a FGV, a Biblioteca Nacional e a SciELO.
 

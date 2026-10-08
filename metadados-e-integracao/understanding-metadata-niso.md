@@ -6,7 +6,7 @@ tags: [metadados-e-integracao]
 created: 2026-09-23
 ---
 
-[Fonte oficial](https://groups.niso.org/higherlogic/ws/public/download/17446/Understanding%20Metadata.pdf)
+[https://groups.niso.org/higherlogic/ws/public/download/17446/Understanding%20Metadata.pdf](https://groups.niso.org/higherlogic/ws/public/download/17446/Understanding%20Metadata.pdf)
 
 Introdução a metadados escrita por Jenn Riley e publicada em 2017 pela National Information Standards Organization (NISO), em uma série de guias introdutórios.
 

@@ -6,7 +6,7 @@ tags: [acervos-comunitarios]
 created: 2026-09-23
 ---
 
-[Fonte oficial](https://www.acervosdigitais.fau.usp.br/apresentacao/)
+[https://www.acervosdigitais.fau.usp.br/apresentacao/](https://www.acervosdigitais.fau.usp.br/apresentacao/)
 
 Projeto de pesquisa da Faculdade de Arquitetura e Urbanismo da Universidade de São Paulo (FAU/USP) sobre organização, gestão e acesso a acervos digitais, com financiamento da Fundação de Amparo à Pesquisa do Estado de São Paulo (FAPESP). Trabalha com acervos da FAU/USP, do Museu de Arte Contemporânea da USP (MAC/USP) e do FILE — Festival Internacional de Linguagem Eletrônica.
 

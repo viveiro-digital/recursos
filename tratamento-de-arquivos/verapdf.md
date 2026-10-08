@@ -6,7 +6,7 @@ tags: [tratamento-de-arquivos]
 created: 2026-09-23
 ---
 
-[Fonte oficial](https://verapdf.org/)
+[https://verapdf.org/](https://verapdf.org/)
 
 Validador de arquivos PDF de código aberto que cobre todas as partes e níveis de conformidade dos padrões PDF/A, para arquivamento, e PDF/UA, para acessibilidade. É mantido pelo consórcio veraPDF, liderado pela Open Preservation Foundation e pela PDF Association.
 

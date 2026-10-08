@@ -6,7 +6,7 @@ tags: [catalogacao-e-repositorios]
 created: 2026-09-23
 ---
 
-[Fonte oficial](https://mukurtu.org/)
+[https://mukurtu.org/](https://mukurtu.org/)
 
 Plataforma livre para gestão e compartilhamento de patrimônio cultural digital, criada com comunidades indígenas e baseada em Drupal. É mantida pelo Center for Digital Scholarship and Curation da Universidade Estadual de Washington. A versão atual é a Mukurtu CMS 4.
 
@@ -21,3 +21,9 @@ Plataforma livre para gestão e compartilhamento de patrimônio cultural digital
 - **Instalação:** requer servidor próprio.
 - **Conhecimento técnico:** administração de servidores.
 - **Licença:** GNU GPL 3.0.
+
+## Leitura inicial baseada na fonte oficial
+
+Esta não é uma avaliação de uso pelo Viveiro. A fonte oficial apresenta o Mukurtu como uma plataforma livre, móvel e de código aberto desenvolvida com comunidades indígenas para gerenciar e compartilhar patrimônio cultural digital, com ênfase em relações de respeito, confiança e gestão culturalmente relevante.
+
+Parece adequado quando protocolos comunitários de acesso e formas próprias de governança são requisitos centrais. A avaliação prática deve começar pelas decisões da comunidade sobre o que pode ser compartilhado, com quem e em quais condições.

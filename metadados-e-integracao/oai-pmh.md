@@ -6,7 +6,7 @@ tags: [metadados-e-integracao]
 created: 2026-09-23
 ---
 
-[Fonte oficial](https://www.openarchives.org/OAI/openarchivesprotocol.html)
+[https://www.openarchives.org/OAI/openarchivesprotocol.html](https://www.openarchives.org/OAI/openarchivesprotocol.html)
 
 Protocolo da Open Archives Initiative para coleta de metadados entre sistemas. A versão 2.0 é de junho de 2002. Provedores de dados expõem seus metadados, e provedores de serviço os coletam para criar serviços como catálogos agregados.
 

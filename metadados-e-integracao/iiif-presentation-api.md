@@ -6,7 +6,7 @@ tags: [metadados-e-integracao]
 created: 2026-09-23
 ---
 
-[Fonte oficial](https://iiif.io/api/presentation/3.0/)
+[https://iiif.io/api/presentation/3.0/](https://iiif.io/api/presentation/3.0/)
 
 Especificação do International Image Interoperability Framework (IIIF) para apresentar objetos digitais compostos, como livros e publicações de várias páginas. A versão 3.0 é publicada pelo IIIF Consortium.
 

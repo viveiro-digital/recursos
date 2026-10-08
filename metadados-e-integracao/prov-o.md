@@ -6,7 +6,7 @@ tags: [metadados-e-integracao]
 created: 2026-09-23
 ---
 
-[Fonte oficial](https://www.w3.org/TR/prov-o/)
+[https://www.w3.org/TR/prov-o/](https://www.w3.org/TR/prov-o/)
 
 Ontologia do World Wide Web Consortium (W3C), publicada como recomendação em abril de 2013. Expressa em OWL2 o modelo de dados PROV, usado para representar e trocar informações de proveniência.
 

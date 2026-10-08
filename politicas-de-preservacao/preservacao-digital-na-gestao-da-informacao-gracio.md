@@ -6,7 +6,7 @@ tags: [politicas-de-preservacao]
 created: 2026-09-23
 ---
 
-[Fonte oficial](http://hdl.handle.net/11449/113727)
+[http://hdl.handle.net/11449/113727](http://hdl.handle.net/11449/113727)
 
 Livro de José Carlos Abbud Grácio, publicado pela Cultura Acadêmica em 2012, em acesso aberto. O título completo é *Preservação digital na gestão da informação: um modelo processual para as instituições de ensino superior*.
 

@@ -6,7 +6,7 @@ tags: [acervos-comunitarios]
 created: 2026-09-23
 ---
 
-[Fonte oficial](https://localcontexts.org/)
+[https://localcontexts.org/](https://localcontexts.org/)
 
 Iniciativa internacional que apoia comunidades indígenas na afirmação de autoridade cultural sobre coleções e dados de patrimônio.
 

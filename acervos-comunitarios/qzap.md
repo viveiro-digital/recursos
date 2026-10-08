@@ -6,7 +6,7 @@ tags: [acervos-comunitarios]
 created: 2026-09-23
 ---
 
-[Fonte oficial](https://archive.qzap.org/)
+[https://archive.qzap.org/](https://archive.qzap.org/)
 
 Acervo digital de zines queer, lançado em novembro de 2003. Disponibiliza zines digitalizadas, com metadados, para pesquisadores, historiadores e o público em geral.
 

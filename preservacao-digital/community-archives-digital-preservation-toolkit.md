@@ -6,7 +6,7 @@ tags: [preservacao-digital]
 created: 2026-09-23
 ---
 
-[Fonte oficial](https://www.dpconline.org/digipres/implement-digipres/community-archives-dp-toolkit)
+[https://www.dpconline.org/digipres/implement-digipres/community-archives-dp-toolkit](https://www.dpconline.org/digipres/implement-digipres/community-archives-dp-toolkit)
 
 Guia da Digital Preservation Coalition (DPC) para grupos de arquivos comunitários, publicado em 2024. Foi criado no projeto *Our Heritage, Our Stories*, financiado pela UK Research and Innovation (UKRI), com participação da Universidade de Glasgow.
 

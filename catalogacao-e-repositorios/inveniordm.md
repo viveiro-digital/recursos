@@ -6,7 +6,7 @@ tags: [catalogacao-e-repositorios]
 created: 2026-09-23
 ---
 
-[Fonte oficial](https://inveniosoftware.org/products/rdm/)
+[https://inveniosoftware.org/products/rdm/](https://inveniosoftware.org/products/rdm/)
 
 Aplicação de repositório para gestão de dados de pesquisa, construída sobre o Invenio Framework. É desenvolvida pelo CERN e pela Universidade Northwestern, com mais de 24 instituições parceiras. O Zenodo, serviço de repositório mantido pelo CERN, funciona sobre o InvenioRDM.
 
@@ -23,6 +23,12 @@ Aplicação de repositório para gestão de dados de pesquisa, construída sobre
 - **Instalação:** requer servidor próprio (servidor físico, máquina virtual ou plataforma de contêineres, como Kubernetes).
 - **Conhecimento técnico:** administração de servidores.
 - **Licença:** MIT.
+
+## Leitura inicial baseada na fonte oficial
+
+Esta não é uma avaliação de uso pelo Viveiro. A fonte oficial apresenta o InvenioRDM como uma plataforma para gestão de dados de pesquisa, baseada no Invenio Framework e no Zenodo, com escalabilidade, integração institucional, SSO, armazenamento, permissões, campos customizados, ORCID, DataCite e OpenAIRE.
+
+Parece adequado para repositórios de pesquisa e dados que precisam de integrações institucionais e infraestrutura de maior escala. A avaliação prática deve considerar requisitos de implantação, operação e manutenção.
 
 ## Veja também
 

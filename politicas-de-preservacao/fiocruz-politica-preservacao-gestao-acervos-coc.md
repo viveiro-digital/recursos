@@ -6,7 +6,7 @@ tags: [politicas-de-preservacao]
 created: 2026-09-23
 ---
 
-[Fonte oficial](https://www.coc.fiocruz.br/images/PDF/politica_preservacao_gestao_acervos_coc.pdf)
+[https://www.coc.fiocruz.br/images/PDF/politica_preservacao_gestao_acervos_coc.pdf](https://www.coc.fiocruz.br/images/PDF/politica_preservacao_gestao_acervos_coc.pdf)
 
 Política de preservação e gestão de acervos culturais das ciências e da saúde da Casa de Oswaldo Cruz (COC), unidade da Fiocruz, publicada em 2013. É anterior à política geral da Fiocruz, de 2018.
 

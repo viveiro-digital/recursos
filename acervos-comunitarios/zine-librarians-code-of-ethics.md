@@ -6,7 +6,7 @@ tags: [acervos-comunitarios]
 created: 2026-09-23
 ---
 
-[Fonte oficial](https://www.zinelibraries.info/code-of-ethics/)
+[https://www.zinelibraries.info/code-of-ethics/](https://www.zinelibraries.info/code-of-ethics/)
 
 Código de ética para coleções de zines, publicado em novembro de 2015. Foi escrito coletivamente por 16 bibliotecárias e bibliotecários de zines, a partir da Zine Librarians (un)Conference de 2014, em Durham, Estados Unidos. Propõe perguntas para orientar decisões, e não regras fixas.
 

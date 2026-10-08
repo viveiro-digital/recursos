@@ -6,7 +6,7 @@ tags: [acesso-direitos-e-acessibilidade]
 created: 2026-09-23
 ---
 
-[Fonte oficial](https://www.rfc-editor.org/rfc/rfc9309)
+[https://www.rfc-editor.org/rfc/rfc9309](https://www.rfc-editor.org/rfc/rfc9309)
 
 Especificação do arquivo robots.txt, publicada pela Internet Engineering Task Force (IETF) em setembro de 2022 como RFC 9309. Formaliza o protocolo criado em 1994 por Martijn Koster, usado por sites para indicar a robôs de coleta, como buscadores e coletores de dados para treinamento de inteligência artificial, quais páginas não devem ser acessadas.
 

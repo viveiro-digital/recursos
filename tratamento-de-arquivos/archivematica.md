@@ -6,7 +6,7 @@ tags: [tratamento-de-arquivos]
 created: 2026-09-23
 ---
 
-[Fonte oficial](https://www.archivematica.org/en/)
+[https://www.archivematica.org/en/](https://www.archivematica.org/en/)
 
 Sistema web de código aberto para processar materiais digitais para preservação de longo prazo, desenvolvido pela Artefactual Systems. Segue o modelo funcional OAIS e gera pacotes de arquivamento (AIP) independentes do sistema. A versão atual é a 1.18.
 
@@ -24,6 +24,12 @@ Sistema web de código aberto para processar materiais digitais para preservaç�
 - **Instalação:** requer servidor próprio.
 - **Conhecimento técnico:** administração de servidores.
 - **Licença:** GNU AGPL 3.0.
+
+## Leitura inicial baseada na fonte oficial
+
+Esta não é uma avaliação de uso pelo Viveiro. A fonte oficial apresenta o Archivematica como uma suíte web orientada por padrões para preservação digital, com fluxos da ingestão ao acesso, microsserviços, pacotes AIP e integração com METS, PREMIS, Dublin Core, BagIt e repositórios externos.
+
+Parece mais adequado para equipes que precisam operar fluxos formais de preservação do que para uma consulta simples de arquivos. A quantidade de decisões de ingestão, normalização, armazenamento e integração deve ser considerada na avaliação prática.
 
 ## Veja também
 

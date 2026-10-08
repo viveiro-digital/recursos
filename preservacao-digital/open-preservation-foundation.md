@@ -6,7 +6,7 @@ tags: [preservacao-digital]
 created: 2026-09-23
 ---
 
-[Fonte oficial](https://openpreservation.org/)
+[https://openpreservation.org/](https://openpreservation.org/)
 
 Organização sem fins lucrativos, baseada em associação de membros, criada em 2010 para dar continuidade ao projeto europeu Planets. Até 2014, chamava-se Open Planets Foundation. Coordena o desenvolvimento de ferramentas de preservação digital de código aberto.
 

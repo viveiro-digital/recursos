@@ -6,7 +6,7 @@ tags: [metadados-e-integracao]
 created: 2026-09-23
 ---
 
-[Fonte oficial](https://ocfl.io/)
+[https://ocfl.io/](https://ocfl.io/)
 
 Especificação para guardar objetos digitais de forma estruturada, transparente e previsível, independente da aplicação que os gerencia. A versão 1.1.1 é de novembro de 2024. É mantida por uma comunidade aberta.
 

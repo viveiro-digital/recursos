@@ -6,7 +6,7 @@ tags: [acervos-comunitarios]
 created: 2026-09-23
 ---
 
-[Fonte oficial](https://zines.barnard.edu/)
+[https://zines.barnard.edu/](https://zines.barnard.edu/)
 
 Biblioteca de zines da Barnard College, em Nova York, dirigida por Jenna Freedman. Reúne zines feitas por mulheres e por pessoas trans sobre gênero, feminismos, identidades, ativismo político e cultura popular.
 

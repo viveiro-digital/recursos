@@ -6,7 +6,7 @@ tags: [catalogacao-e-repositorios]
 created: 2026-09-23
 ---
 
-[Fonte oficial](https://lennyforlibraries.org/)
+[https://lennyforlibraries.org/](https://lennyforlibraries.org/)
 
 Biblioteca digital de código aberto para preservar e emprestar livros digitais. Foi criada pela Archive Labs e pela equipe do Open Library, do Internet Archive.
 

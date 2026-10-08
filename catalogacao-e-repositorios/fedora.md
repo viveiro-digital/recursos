@@ -6,7 +6,7 @@ tags: [catalogacao-e-repositorios]
 created: 2026-09-23
 ---
 
-[Fonte oficial](https://fedorarepository.org/)
+[https://fedorarepository.org/](https://fedorarepository.org/)
 
 Software de repositório de código aberto para preservação digital de longo prazo, com mais de 20 anos de desenvolvimento. A Lyrasis é a organização responsável. A versão atual é a 7.
 

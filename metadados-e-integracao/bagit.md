@@ -6,7 +6,7 @@ tags: [metadados-e-integracao]
 created: 2026-09-23
 ---
 
-[Fonte oficial](https://www.rfc-editor.org/rfc/rfc8493)
+[https://www.rfc-editor.org/rfc/rfc8493](https://www.rfc-editor.org/rfc/rfc8493)
 
 Especificação de um formato de pacote (*bag*) para guardar e transferir arquivos, publicada em outubro de 2018 como RFC 8493, de caráter informativo. Os autores são da California Digital Library, das Stanford Libraries e da Library of Congress.
 

@@ -6,7 +6,7 @@ tags: [acervos-comunitarios]
 created: 2026-09-23
 ---
 
-[Fonte oficial](https://blackdigitalarchiving.netlify.app/)
+[https://blackdigitalarchiving.netlify.app/](https://blackdigitalarchiving.netlify.app/)
 
 Projeto do Reino Unido sobre acervos digitais de história negra, conduzido pela cooperativa Multitudes Co-Op e financiado pelo National Lottery Community Fund.
 

@@ -6,7 +6,7 @@ tags: [acesso-direitos-e-acessibilidade]
 created: 2026-09-23
 ---
 
-[Fonte oficial](https://www.w3.org/TR/WCAG22/)
+[https://www.w3.org/TR/WCAG22/](https://www.w3.org/TR/WCAG22/)
 
 Diretrizes de acessibilidade para conteúdo web (*Web Content Accessibility Guidelines*, WCAG) do World Wide Web Consortium (W3C). A versão 2.2 foi publicada como recomendação do W3C em outubro de 2023.
 

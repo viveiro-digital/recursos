@@ -28,6 +28,7 @@ Este repositório reúne ferramentas, guias, padrões e iniciativas para organiz
 - [Acervos Digitais e Pesquisa — FAU/USP](acervos-comunitarios/acervos-digitais-e-pesquisa-fau-usp.md): projeto de pesquisa da FAU/USP sobre organização, gestão e acesso a acervos digitais.
 - [Arquivos Comunitários: uma das práticas de lutas do ativismo arquivístico](acervos-comunitarios/arquivos-comunitarios-maira-fernandes-alencar.md): texto de Maíra Fernandes Alencar sobre arquivos comunitários e ativismo arquivístico.
 - [Barnard Zine Library](acervos-comunitarios/barnard-zine-library.md): biblioteca de zines da Barnard College, em Nova York, com catálogo e guias sobre zines.
+- [Biblioteca de Zines](acervos-comunitarios/biblioteca-de-zines.md): biblioteca virtual e de código aberto para catalogar e arquivar zines independentes do Brasil.
 - [Black Digital Archiving Project](acervos-comunitarios/black-digital-archiving-project.md): projeto do Reino Unido sobre acervos digitais de história negra.
 - [CARE Principles for Indigenous Data Governance](acervos-comunitarios/care-principles.md): princípios da GIDA para a governança de dados indígenas.
 - [Local Contexts](acervos-comunitarios/local-contexts.md): iniciativa que mantém etiquetas digitais para direitos culturais indígenas sobre coleções e dados.
@@ -77,6 +78,7 @@ Este repositório reúne ferramentas, guias, padrões e iniciativas para organiz
 
 - [BagIt — RFC 8493](metadados-e-integracao/bagit.md): formato de empacotamento de arquivos com verificação de integridade.
 - [DCMI Metadata Terms (Dublin Core)](metadados-e-integracao/dcmi-metadata-terms.md): vocabulário de metadados com 15 elementos básicos para descrever materiais.
+- [Glossário de acervos digitais](metadados-e-integracao/glossario.md): termos introdutórios para catalogação, preservação e publicação de acervos digitais.
 - [FAIR Principles](metadados-e-integracao/fair-principles.md): princípios para dados localizáveis, acessíveis, interoperáveis e reutilizáveis.
 - [IIIF Presentation API 3.0](metadados-e-integracao/iiif-presentation-api.md): especificação para apresentação de objetos compostos, como publicações de várias páginas.
 - [OAI-PMH](metadados-e-integracao/oai-pmh.md): protocolo para coleta de metadados entre repositórios.

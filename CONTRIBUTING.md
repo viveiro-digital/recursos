@@ -34,7 +34,7 @@ A entrada deve atender às seguintes regras:
 - Campo `title`, `description`, `type` ou `tags` ausente.
 - `description` igual ao título ou sem ponto final.
 - `type` fora dos valores aceitos, ou `tags` sem a pasta da categoria.
-- Primeira linha depois do cabeçalho diferente de `[Fonte oficial](...)`.
+- Primeira linha depois do cabeçalho diferente de `[URL da fonte oficial](URL)`.
 - Nome de arquivo com maiúsculas, acentos ou espaços.
 - Pasta que não está registrada como categoria no repositório.
 
@@ -49,7 +49,7 @@ tags: [nome-da-categoria]
 created: AAAA-MM-DD
 ---
 
-[Fonte oficial](https://exemplo.org/)
+[https://exemplo.org/](https://exemplo.org/)
 
 O que o recurso é, quem o mantém e o que ele faz.
 
@@ -84,6 +84,8 @@ A seção de conteúdo depende do tipo de recurso:
 
 As seções de conteúdo, **Observações**, **Veja também** e **Uso no Viveiro** são opcionais. **Uso no Viveiro** só se aplica a recursos que o Viveiro usou.
 
+Uma entrada pode incluir a seção **Leitura inicial baseada na fonte oficial** quando houver uma análise preliminar solicitada para um recurso ainda não usado pelo Viveiro. Essa seção deve declarar que não é uma avaliação de uso, manter as afirmações ligadas à fonte oficial e usar linguagem provisória.
+
 Valores aceitos em `type`: `ferramenta`, `guia`, `padrão`, `política`, `publicação`, `legislação`, `iniciativa`, `comunidade` e `acervo`.
 
 ## Estilo
@@ -93,14 +95,14 @@ Todo texto do repositório (entradas, README e este arquivo) segue os guias de e
 ### Regras
 
 - **Fatos verificáveis.** Descreva o que o recurso é, quem o mantém e o que faz, com base na fonte oficial. Opiniões e impressões de uso ficam na seção **Uso no Viveiro**.
-- **Descrição, não recomendação.** O texto informa; a decisão de usar é de quem lê. Frases sobre por que o recurso importa ou o que o leitor deveria fazer ficam fora das entradas.
+- **Descrição, não recomendação.** O texto informa; a decisão de usar é de quem lê. Frases sobre por que o recurso importa ou o que o leitor deveria fazer ficam fora das entradas. Uma **Leitura inicial baseada na fonte oficial** pode registrar uma adequação preliminar quando solicitada, sem se apresentar como recomendação ou experiência do Viveiro.
 - **Adjetivos descritivos.** Use adjetivos que descrevem (livre, gratuito, colaborativo) e deixe de fora os que avaliam (ótimo, essencial, um dos melhores).
 - **Terceira pessoa e voz impessoal.** Escreva "O Viveiro usou", "Requer servidor próprio", e não "nós usamos" ou "você vai precisar".
 - **Frases curtas**, com uma ideia por frase, no presente.
 - **Siglas por extenso** na primeira ocorrência: "Instituto Brasileiro de Informação em Ciência e Tecnologia (IBICT)".
 - **Termos em outro idioma** em itálico, com tradução quando útil: "*checksum*", "*Findable* (localizáveis)".
 - **Referências por nome**, sem indicações de posição como "abaixo" ou "acima": "conforme o modelo da próxima seção".
-- **Link para a fonte oficial** sempre na primeira linha depois do cabeçalho.
+- **Link para a fonte oficial** sempre na primeira linha depois do cabeçalho, com a URL visível como texto do link.
 - **Links relativos** para outros arquivos do repositório, como `[texto](../outra-categoria/arquivo.md)`.
 - **Citações curtas**, com autoria.
 - **Somente dados públicos.** Não inclua dados pessoais de terceiros.
@@ -131,7 +133,7 @@ tags: [tratamento-de-arquivos]
 created: 2026-09-23
 ---
 
-[Fonte oficial](https://restic.net/)
+[https://restic.net/](https://restic.net/)
 
 Programa de backup que copia arquivos para um disco local ou para serviços de armazenamento, próprios ou em nuvem.
 

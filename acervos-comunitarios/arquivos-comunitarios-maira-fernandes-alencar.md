@@ -6,7 +6,7 @@ tags: [acervos-comunitarios]
 created: 2026-09-23
 ---
 
-[Fonte oficial](https://girodaarquivo.substack.com/p/arquivos-comunitarios-uma-das-praticas)
+[https://girodaarquivo.substack.com/p/arquivos-comunitarios-uma-das-praticas](https://girodaarquivo.substack.com/p/arquivos-comunitarios-uma-das-praticas)
 
 Texto de Maíra Fernandes Alencar, professora do Departamento de Ciência e Gestão da Informação da Universidade Federal do Paraná (UFPR), publicado na newsletter Giro da Arquivo em janeiro de 2026.
 

@@ -6,7 +6,7 @@ tags: [acervos-comunitarios]
 created: 2026-09-23
 ---
 
-[Fonte oficial](https://www.gida-global.org/careprinciples)
+[https://www.gida-global.org/careprinciples](https://www.gida-global.org/careprinciples)
 
 Princípios para a governança de dados indígenas, publicados em 2018 pela Global Indigenous Data Alliance (GIDA). Foram redigidos em um workshop em Gaborone, Botsuana, com coordenação de Stephanie Russo Carroll (Universidade do Arizona) e Maui Hudson (Universidade de Waikato).
 
