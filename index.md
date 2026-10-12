@@ -157,6 +157,9 @@ As categorias organizam os recursos por etapa de trabalho.
 - [bagit-python](recursos-tecnicos/bagit-python.md): biblioteca Python e ferramenta de linha de comando para criar e verificar pacotes BagIt.
 - [Internet Archive BookReader](recursos-tecnicos/internet-archive-bookreader.md): biblioteca JavaScript para exibir livros digitalizados na web e em páginas incorporadas.
 - [Lenny](recursos-tecnicos/lenny.md): software livre para preservar e emprestar livros digitais.
+- [Mirador](recursos-tecnicos/mirador.md): visualizador JavaScript para comparar imagens, ampliar documentos e exibir anotações em interfaces web.
+- [OpenSeadragon](recursos-tecnicos/openseadragon.md): visualizador JavaScript para imagens ampliáveis de alta resolução em páginas web.
+- [Universal Viewer](recursos-tecnicos/universal-viewer.md): visualizador web para imagens, PDFs, arquivos 3D, áudio e vídeo em acervos digitais.
 
 ## Para contribuir
 
