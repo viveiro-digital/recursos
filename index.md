@@ -19,7 +19,7 @@ O projeto tem especial interesse em iniciativas de comunidades minoritárias e s
 
 Neste site, você encontra um conjunto de recursos para organizar, preservar e compartilhar acervos digitais comunitários. O catálogo é montado de forma colaborativa e está sempre em atualização e construção. Reunimos referências de diferentes lugares: conteúdos do Brasil e de outros países, iniciativas públicas, coletivos, organizações sem fins lucrativos e recursos voltados a comunidades sub-representadas, inclusive no campo do arquivamento. Cada entrada traz um link para a fonte oficial. O conteúdo está em português, salvo indicação na entrada, e a inclusão de um recurso não indica parceria ou endosso.
 
-O repositório é público, aberto e gratuito para consultar e contribuir. Seus textos estão sob a licença [CC BY 4.0](https://github.com/viveiro-digital/recursos/blob/main/LICENSE). Para sugerir ou acrescentar um recurso, consulte [Como contribuir](https://github.com/viveiro-digital/recursos/blob/main/CONTRIBUTING.md).
+O repositório é público, aberto e gratuito para consultar e contribuir. Para sugerir ou acrescentar um recurso, consulte [Como contribuir](https://github.com/viveiro-digital/recursos/blob/main/CONTRIBUTING.md).
 
 ## Índice
 
@@ -27,12 +27,16 @@ As categorias organizam os recursos por etapa de trabalho.
 
 ### Acesso, direitos e acessibilidade
 
+Leis e guias para compartilhar um acervo sem ignorar direitos, privacidade ou as diferentes formas de acesso das pessoas.
+
 - [Lei nº 13.709/2018 — LGPD](acesso-direitos-e-acessibilidade/lei-13709-lgpd.md): lei que regula o tratamento de dados pessoais no Brasil.
 - [Lei nº 9.610/1998 — direitos autorais](acesso-direitos-e-acessibilidade/lei-9610-direitos-autorais.md): lei que define autoria, direitos sobre obras e usos permitidos sem autorização.
 - [Robots Exclusion Protocol — RFC 9309](acesso-direitos-e-acessibilidade/robots-exclusion-protocol.md): especificação do arquivo que indica a robôs de coleta quais páginas não acessar.
 - [WCAG 2.2](acesso-direitos-e-acessibilidade/wcag-22.md): diretrizes do W3C para tornar sites acessíveis a pessoas com deficiência.
 
 ### Catalogação e repositórios
+
+Ferramentas e plataformas para registrar o que existe no acervo, organizar essas informações e criar um lugar onde a própria comunidade e outras pessoas possam fazer buscas.
 
 - [ArchivesSpace](catalogacao-e-repositorios/archivesspace.md): aplicação livre para gestão, descrição e acesso a arquivos, manuscritos e objetos digitais.
 - [AtoM — Access to Memory](catalogacao-e-repositorios/atom.md): software livre para descrição arquivística e acesso a acervos pela web.
@@ -46,6 +50,8 @@ As categorias organizam os recursos por etapa de trabalho.
 - [Tropy](catalogacao-e-repositorios/tropy.md): aplicação livre para organizar e descrever fotografias de pesquisa.
 
 ### Exemplos de acervos e projetos
+
+Sites, museus, bibliotecas e outros projetos que preservam e apresentam as histórias de diferentes comunidades, mostrando possibilidades para quem está criando ou fortalecendo um acervo.
 
 - [Acervo da Laje](exemplos-de-acervos/acervo-da-laje.md): espaço de memória, arte e pesquisa sobre o Subúrbio Ferroviário de Salvador e suas comunidades negras e periféricas.
 - [Archivo de la Memoria Trans](exemplos-de-acervos/archivo-memoria-trans.md): arquivo comunitário argentino que preserva memórias e documentos da comunidade trans.
@@ -78,6 +84,8 @@ As categorias organizam os recursos por etapa de trabalho.
 
 ### Metadados e integração
 
+Formas padronizadas de registrar informações sobre um arquivo — como autor, data, assunto e formato — e de fazer sistemas trocarem esses dados, para que os materiais sejam encontrados, contextualizados e conectados.
+
 - [BagIt — RFC 8493](metadados-e-integracao/bagit.md): formato de empacotamento de arquivos com verificação de integridade.
 - [DCMI Metadata Terms (Dublin Core)](metadados-e-integracao/dcmi-metadata-terms.md): vocabulário de metadados com 15 elementos básicos para descrever materiais.
 - [FAIR Principles](metadados-e-integracao/fair-principles.md): princípios para dados localizáveis, acessíveis, interoperáveis e reutilizáveis.
@@ -91,6 +99,8 @@ As categorias organizam os recursos por etapa de trabalho.
 
 ### Políticas de preservação
 
+Documentos para decidir o que preservar, por quanto tempo, quem será responsável e quais procedimentos seguir, para que o cuidado com o acervo não dependa de uma única pessoa.
+
 - [Orientações técnicas sobre documentos digitais — CONARQ](politicas-de-preservacao/conarq-orientacoes-tecnicas-documentos-digitais.md): notas brasileiras sobre normas para documentos arquivísticos digitais.
 - [Digital Preservation Documentation: a guide (DPC)](politicas-de-preservacao/dpc-digital-preservation-documentation-guide.md): guia da DPC sobre documentação de rotinas de preservação digital.
 - [Digital Preservation Policy Toolkit (DPC)](politicas-de-preservacao/dpc-digital-preservation-policy-toolkit.md): guias e modelo da DPC para elaborar políticas de preservação digital.
@@ -102,6 +112,8 @@ As categorias organizam os recursos por etapa de trabalho.
 - [Política de preservação digital para documentos de arquivo da UNESP (2017)](politicas-de-preservacao/unesp-politica-preservacao-digital.md): política da UNESP com diretrizes, padrões, metadados e estratégias de preservação digital.
 
 ### Preservação digital
+
+Guias e ferramentas para manter arquivos digitais abrindo, identificáveis e compreensíveis mesmo quando os programas e equipamentos mudam, para que os registros continuem acessíveis ao longo do tempo.
 
 - [Awesome Digital Preservation](preservacao-digital/awesome-digital-preservation.md): lista colaborativa de recursos de preservação digital.
 - [BNDigital — preservação digital](preservacao-digital/bndigital-preservacao-digital.md): página da BNDigital sobre suas práticas de preservação digital.
@@ -118,6 +130,8 @@ As categorias organizam os recursos por etapa de trabalho.
 - [Rede Cariniana](preservacao-digital/rede-cariniana.md): rede brasileira de preservação digital coordenada pelo IBICT.
 
 ### Recursos para acervos comunitários
+
+Textos, guias e organizações que ajudam comunidades a decidir como seus registros serão descritos, acessados, protegidos e preservados, mantendo a autonomia sobre suas próprias histórias.
 
 - [Guidelines for Accessible Archives for People with Disabilities](recursos-para-acervos/accessible-archives-disabilities.md): diretrizes para tornar serviços, espaços e práticas arquivísticas acessíveis a pessoas com deficiência.
 - [Acervos Digitais e Pesquisa — FAU/USP](recursos-para-acervos/acervos-digitais-e-pesquisa-fau-usp.md): projeto de pesquisa da FAU/USP sobre organização, gestão e acesso a acervos digitais.
@@ -143,6 +157,8 @@ As categorias organizam os recursos por etapa de trabalho.
 
 ### Tratamento de arquivos
 
+Ferramentas para trabalhar diretamente com os arquivos: identificar formatos, extrair informações, converter, conferir, organizar e fazer cópias, para que o acervo possa ser cuidado e preservado.
+
 - [Apache Tika](tratamento-de-arquivos/apache-tika.md): kit de ferramentas para detectar formatos e extrair metadados e texto de arquivos digitais.
 - [ArchiveBox](tratamento-de-arquivos/archivebox.md): aplicação autohospedável para preservar páginas web em formatos como HTML, PDF, PNG, texto e WARC.
 - [Archivematica](tratamento-de-arquivos/archivematica.md): sistema livre para processamento de materiais digitais para preservação.
@@ -159,6 +175,8 @@ As categorias organizam os recursos por etapa de trabalho.
 
 ### Recursos técnicos
 
+Bibliotecas e componentes que podem fazer parte de um sistema de acervo digital, especialmente para exibir imagens, livros, vídeos e documentos e ampliar as formas de consulta na internet.
+
 - [bagit-python](recursos-tecnicos/bagit-python.md): biblioteca Python e ferramenta de linha de comando para criar e verificar pacotes BagIt.
 - [Internet Archive BookReader](recursos-tecnicos/internet-archive-bookreader.md): biblioteca JavaScript para exibir livros digitalizados na web e em páginas incorporadas.
 - [Lenny](recursos-tecnicos/lenny.md): software livre para preservar e emprestar livros digitais.
@@ -172,14 +190,6 @@ As categorias organizam os recursos por etapa de trabalho.
 Para sugerir, corrigir ou acrescentar um recurso, abra uma issue ou um pull request. As instruções estão em [Como contribuir](https://github.com/viveiro-digital/recursos/blob/main/CONTRIBUTING.md).
 
 Contato: [bibliotecadezines@gmail.com](mailto:bibliotecadezines@gmail.com)
-
-## Licença
-
-Os textos deste repositório estão sob a licença [Creative Commons Atribuição 4.0 Internacional (CC BY 4.0)](https://github.com/viveiro-digital/recursos/blob/main/LICENSE). Você pode copiar, adaptar e reutilizar o conteúdo para qualquer finalidade, desde que dê crédito.
-
-Sugestão de crédito:
-
-> Viveiro — https://github.com/viveiro-digital/recursos
 
 ## Mantenedora
 
