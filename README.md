@@ -139,16 +139,21 @@ Acervos digitais comunitários são conjuntos de documentos, imagens, áudios, v
 
 ### Tratamento de arquivos
 
+- [Apache Tika](tratamento-de-arquivos/apache-tika.md): kit de ferramentas para detectar formatos e extrair metadados e texto de arquivos digitais.
 - [Archivematica](tratamento-de-arquivos/archivematica.md): sistema livre para processamento de materiais digitais para preservação.
 - [DROID](tratamento-de-arquivos/droid.md): ferramenta para identificação de formatos de arquivo.
+- [ExifTool](tratamento-de-arquivos/exiftool.md): ferramenta de linha de comando para ler e escrever metadados em diversos formatos de arquivo.
+- [MediaInfo](tratamento-de-arquivos/mediainfo.md): ferramenta para exibir dados técnicos e etiquetas de arquivos de áudio e vídeo.
 - [OCRmyPDF](tratamento-de-arquivos/ocrmypdf.md): ferramenta para adicionar texto pesquisável (OCR) a PDFs digitalizados.
 - [OpenRefine](tratamento-de-arquivos/openrefine.md): ferramenta para limpeza e padronização de dados em tabelas.
 - [rclone](tratamento-de-arquivos/rclone.md): ferramenta para copiar e sincronizar arquivos entre armazenamento local e em nuvem.
 - [restic](tratamento-de-arquivos/restic.md): ferramenta de backup com versões, deduplicação e criptografia.
+- [Siegfried](tratamento-de-arquivos/siegfried.md): ferramenta de identificação de formatos de arquivo baseada em assinaturas para preservação digital.
 - [veraPDF](tratamento-de-arquivos/verapdf.md): validador de arquivos PDF/A e PDF/UA.
 
 ### Recursos técnicos
 
+- [ArchiveBox](recursos-tecnicos/archivebox.md): aplicação autohospedável para preservar páginas web em formatos como HTML, PDF, PNG, texto e WARC.
 - [bagit-python](recursos-tecnicos/bagit-python.md): biblioteca Python e ferramenta de linha de comando para criar e verificar pacotes BagIt.
 - [Internet Archive BookReader](recursos-tecnicos/internet-archive-bookreader.md): biblioteca JavaScript para exibir livros digitalizados na web e em páginas incorporadas.
 - [Lenny](recursos-tecnicos/lenny.md): software livre para preservar e emprestar livros digitais.
