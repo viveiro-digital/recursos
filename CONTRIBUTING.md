@@ -132,6 +132,7 @@ As entradas são organizadas por etapa de trabalho ou por função no catálogo.
 
 - `recursos-para-acervos`: guias, padrões, organizações, redes e pesquisas que apoiam o trabalho com acervos comunitários.
 - `exemplos-de-acervos`: acervos, museus, bibliotecas e projetos que documentam memórias e patrimônios de comunidades.
+- `recursos-tecnicos`: bibliotecas, pacotes, componentes, aplicações e outras ferramentas específicas para implementar funções em acervos digitais.
 
 ### Exemplo de entrada
 

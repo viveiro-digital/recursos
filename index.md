@@ -19,59 +19,7 @@ O projeto tem especial interesse em iniciativas de comunidades minoritárias e s
 
 Neste site, você encontra um conjunto de recursos para organizar, preservar e compartilhar acervos digitais comunitários. O catálogo é montado de forma colaborativa e está sempre em atualização e construção. Reunimos referências de diferentes lugares: conteúdos do Brasil e de outros países, iniciativas públicas, coletivos, organizações sem fins lucrativos e recursos voltados a comunidades sub-representadas, inclusive no campo do arquivamento. Cada entrada traz um link para a fonte oficial. O conteúdo está em português, salvo indicação na entrada, e a inclusão de um recurso não indica parceria ou endosso.
 
-As categorias organizam os recursos por etapa de trabalho. Os recortes abaixo ajudam a encontrar entradas que atravessam mais de uma categoria.
-
 O repositório é público, aberto e gratuito para consultar e contribuir. Seus textos estão sob a licença [CC BY 4.0](https://github.com/viveiro-digital/recursos/blob/main/LICENSE). Para sugerir ou acrescentar um recurso, consulte [Como contribuir](https://github.com/viveiro-digital/recursos/blob/main/CONTRIBUTING.md).
-
-### Comunidades indígenas e povos tradicionais
-
-- [Centro de Referência Virtual Indígena — Armazém Memória](exemplos-de-acervos/armazem-memoria-indigena.md)
-- [CARE Principles for Indigenous Data Governance](recursos-para-acervos/care-principles.md)
-- [Community Archives Digital Preservation Toolkit](recursos-para-acervos/community-archives-digital-preservation-toolkit.md)
-- [Documenting the Now](recursos-para-acervos/documenting-the-now.md)
-- [Indigenous Knowledges Attribution Toolkit (IKAT)](recursos-para-acervos/indigenous-knowledges-attribution-toolkit.md)
-- [Mukurtu](recursos-para-acervos/mukurtu.md)
-- [Museu Kuahí dos Povos Indígenas do Oiapoque](exemplos-de-acervos/museu-kuahi.md)
-- [Museu Magüta](exemplos-de-acervos/museu-maguta.md)
-- [Nova Cartografia Social da Amazônia](exemplos-de-acervos/nova-cartografia-social-amazonia.md)
-- [Princípios de soberania de dados Māori](recursos-para-acervos/principios-soberania-dados-maori.md)
-
-### Memórias negras, periféricas e territoriais
-
-- [Acervo da Laje](exemplos-de-acervos/acervo-da-laje.md)
-- [Heranças Negras: Memórias Vivas do Amapá](exemplos-de-acervos/herancas-negras-amapa.md)
-- [Museu das Remoções](exemplos-de-acervos/museu-das-remocoes.md)
-- [Núcleo de Memória e Identidades da Maré — NUMIM](exemplos-de-acervos/numim.md)
-- [Rio de Marés](exemplos-de-acervos/rio-de-mares.md)
-
-### Memórias lésbicas, queer e zines
-
-- [Arquivo Lésbico Brasileiro](exemplos-de-acervos/arquivo-lesbico-brasileiro.md)
-- [Archivo de la Memoria Trans](exemplos-de-acervos/archivo-memoria-trans.md)
-- [GALA Queer Archive](exemplos-de-acervos/gala-queer-archive.md)
-- [Biblioteca de Zines](exemplos-de-acervos/biblioteca-de-zines.md)
-- [Lesbiel](exemplos-de-acervos/lesbiel.md)
-- [Museo Q](exemplos-de-acervos/museo-q.md)
-- [Museu Bajubá](exemplos-de-acervos/museu-bajuba.md)
-- [QZAP — Queer Zine Archive Project](exemplos-de-acervos/qzap.md)
-
-### Plataformas para publicar e organizar acervos
-
-- [AtoM — Access to Memory](catalogacao-e-repositorios/atom.md)
-- [BIBLIVRE](catalogacao-e-repositorios/biblivre.md)
-- [ArchivesSpace](catalogacao-e-repositorios/archivesspace.md)
-- [Omeka S](catalogacao-e-repositorios/omeka-s.md)
-- [Tropy](catalogacao-e-repositorios/tropy.md)
-- [Tainacan](catalogacao-e-repositorios/tainacan.md)
-
-### Preservação digital
-
-- [Archivematica](tratamento-de-arquivos/archivematica.md)
-- [BitCurator](tratamento-de-arquivos/bitcurator.md)
-- [Community Archives Digital Preservation Toolkit](recursos-para-acervos/community-archives-digital-preservation-toolkit.md)
-- [Digital Preservation Handbook](preservacao-digital/digital-preservation-handbook.md)
-- [NDSA Levels of Digital Preservation](preservacao-digital/ndsa-levels-of-digital-preservation.md)
-- [restic](tratamento-de-arquivos/restic.md)
 
 ## Índice
 
@@ -93,7 +41,6 @@ As categorias organizam os recursos por etapa de trabalho.
 - [DSpace](catalogacao-e-repositorios/dspace.md): software livre para criar repositórios digitais.
 - [Fedora](catalogacao-e-repositorios/fedora.md): camada de armazenamento para repositórios digitais.
 - [InvenioRDM](catalogacao-e-repositorios/inveniordm.md): plataforma livre para repositórios de pesquisa, base do Zenodo.
-- [Lenny](catalogacao-e-repositorios/lenny.md): software livre para empréstimo de livros digitais.
 - [Omeka S](catalogacao-e-repositorios/omeka-s.md): software livre para publicação de coleções digitais e exposições.
 - [Tainacan](catalogacao-e-repositorios/tainacan.md): plugin brasileiro de WordPress para gestão e publicação de acervos digitais.
 - [Tropy](catalogacao-e-repositorios/tropy.md): aplicação livre para organizar e descrever fotografias de pesquisa.
@@ -115,6 +62,7 @@ As categorias organizam os recursos por etapa de trabalho.
 - [Digital Himalaya](exemplos-de-acervos/digital-himalaya.md): projeto de preservação e acesso digital a materiais multimídia da região do Himalaia.
 - [GALA Queer Archive](exemplos-de-acervos/gala-queer-archive.md): arquivo comunitário sul-africano que preserva histórias e experiências de pessoas LGBTQIA+.
 - [Heranças Negras: Memórias Vivas do Amapá](exemplos-de-acervos/herancas-negras-amapa.md): websérie documental sobre histórias, saberes e trajetórias de pessoas negras no Amapá.
+- [Internet Archive](exemplos-de-acervos/internet-archive.md): biblioteca digital sem fins lucrativos com acervos digitais e acesso gratuito a livros, filmes, músicas, sites e programas.
 - [Lesbiel](exemplos-de-acervos/lesbiel.md): arquivo digital de literatura e memória de autoras lésbicas e bissexuais.
 - [Museo Q](exemplos-de-acervos/museo-q.md): iniciativa colombiana sem fins lucrativos que cria exposições e projetos sobre memórias LGBTIQ+.
 - [Museu Bajubá](exemplos-de-acervos/museu-bajuba.md): museu virtual sobre memórias, culturas e territórios de pessoas LGBTI+ no Brasil.
@@ -203,6 +151,12 @@ As categorias organizam os recursos por etapa de trabalho.
 - [rclone](tratamento-de-arquivos/rclone.md): ferramenta para copiar e sincronizar arquivos entre armazenamento local e em nuvem.
 - [restic](tratamento-de-arquivos/restic.md): ferramenta de backup com versões, deduplicação e criptografia.
 - [veraPDF](tratamento-de-arquivos/verapdf.md): validador de arquivos PDF/A e PDF/UA.
+
+### Recursos técnicos
+
+- [bagit-python](recursos-tecnicos/bagit-python.md): biblioteca Python e ferramenta de linha de comando para criar e verificar pacotes BagIt.
+- [Internet Archive BookReader](recursos-tecnicos/internet-archive-bookreader.md): biblioteca JavaScript para exibir livros digitalizados na web e em páginas incorporadas.
+- [Lenny](recursos-tecnicos/lenny.md): software livre para preservar e emprestar livros digitais.
 
 ## Para contribuir
 

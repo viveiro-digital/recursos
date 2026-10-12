@@ -41,6 +41,7 @@ Acervos digitais comunitários são conjuntos de documentos, imagens, áudios, v
 - [Centro de Documentação e Pesquisa Indígena — CPI-Acre](exemplos-de-acervos/cdpi-cpi-acre.md): centro de documentação com registros históricos, audiovisuais e materiais de autoria indígena no Acre.
 - [Acervo audiovisual da CPI-Acre](exemplos-de-acervos/cpi-acre-acervo-audiovisual.md): arquivo audiovisual com histórias, línguas, culturas e projetos de memória de povos indígenas do Acre.
 - [Heranças Negras: Memórias Vivas do Amapá](exemplos-de-acervos/herancas-negras-amapa.md): websérie documental sobre histórias, saberes e trajetórias de pessoas negras no Amapá.
+- [Internet Archive](exemplos-de-acervos/internet-archive.md): biblioteca digital sem fins lucrativos com acervos digitais e acesso gratuito a livros, filmes, músicas, sites e programas.
 - [GALA Queer Archive](exemplos-de-acervos/gala-queer-archive.md): arquivo comunitário sul-africano que preserva histórias e experiências de pessoas LGBTQIA+.
 - [Lesbiel](exemplos-de-acervos/lesbiel.md): arquivo digital de literatura e memória de autoras lésbicas e bissexuais.
 - [Museu Bajubá](exemplos-de-acervos/museu-bajuba.md): museu virtual sobre memórias, culturas e territórios de pessoas LGBTI+ no Brasil.
@@ -120,7 +121,6 @@ Acervos digitais comunitários são conjuntos de documentos, imagens, áudios, v
 - [DSpace](catalogacao-e-repositorios/dspace.md): software livre para criar repositórios digitais.
 - [Fedora](catalogacao-e-repositorios/fedora.md): camada de armazenamento para repositórios digitais.
 - [InvenioRDM](catalogacao-e-repositorios/inveniordm.md): plataforma livre para repositórios de pesquisa, base do Zenodo.
-- [Lenny](catalogacao-e-repositorios/lenny.md): software livre para empréstimo de livros digitais.
 - [Omeka S](catalogacao-e-repositorios/omeka-s.md): software livre para publicação de coleções digitais e exposições.
 - [Tainacan](catalogacao-e-repositorios/tainacan.md): plugin brasileiro de WordPress para gestão e publicação de acervos digitais.
 
@@ -146,6 +146,12 @@ Acervos digitais comunitários são conjuntos de documentos, imagens, áudios, v
 - [rclone](tratamento-de-arquivos/rclone.md): ferramenta para copiar e sincronizar arquivos entre armazenamento local e em nuvem.
 - [restic](tratamento-de-arquivos/restic.md): ferramenta de backup com versões, deduplicação e criptografia.
 - [veraPDF](tratamento-de-arquivos/verapdf.md): validador de arquivos PDF/A e PDF/UA.
+
+### Recursos técnicos
+
+- [bagit-python](recursos-tecnicos/bagit-python.md): biblioteca Python e ferramenta de linha de comando para criar e verificar pacotes BagIt.
+- [Internet Archive BookReader](recursos-tecnicos/internet-archive-bookreader.md): biblioteca JavaScript para exibir livros digitalizados na web e em páginas incorporadas.
+- [Lenny](recursos-tecnicos/lenny.md): software livre para preservar e emprestar livros digitais.
 
 ### Acesso, direitos e acessibilidade
 

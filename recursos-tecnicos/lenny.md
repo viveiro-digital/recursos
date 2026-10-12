@@ -2,7 +2,7 @@
 title: "Lenny"
 description: "Software livre para empréstimo de livros digitais."
 type: ferramenta
-tags: [catalogacao-e-repositorios]
+tags: [recursos-tecnicos]
 created: 2026-09-23
 ---
 
@@ -26,4 +26,4 @@ Biblioteca digital de código aberto para preservar e emprestar livros digitais.
 
 ## Veja também
 
-- [Código-fonte](https://github.com/archiveLabs/lenny)
+- [Código-fonte](https://github.com/ArchiveLabs/lenny)

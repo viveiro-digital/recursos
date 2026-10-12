@@ -25,5 +25,5 @@ Com o manifesto, é possível verificar se algum arquivo foi alterado ou perdido
 
 ## Veja também
 
-- [bagit-python](https://github.com/LibraryOfCongress/bagit-python), biblioteca e ferramenta de linha de comando para criar e verificar pacotes
+- [bagit-python](../recursos-tecnicos/bagit-python.md), biblioteca e ferramenta de linha de comando para criar e verificar pacotes
 - [Archivematica](../tratamento-de-arquivos/archivematica.md)
