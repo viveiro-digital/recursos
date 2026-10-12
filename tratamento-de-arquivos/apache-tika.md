@@ -21,6 +21,6 @@ Kit de ferramentas da Apache Software Foundation para detectar formatos e extrai
 ## Observações
 
 - **Custo:** gratuito.
-- **Instalação:** programa para computador (Java 17).
+- **Instalação:** programa para computador (Java 17 ou superior na versão 4.x).
 - **Conhecimento técnico:** uso do terminal.
 - **Licença:** Apache 2.0.

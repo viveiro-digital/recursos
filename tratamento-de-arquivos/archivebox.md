@@ -2,7 +2,7 @@
 title: "ArchiveBox"
 description: "Aplicação autohospedável para preservar páginas web em formatos como HTML, PDF, PNG, texto e WARC."
 type: ferramenta
-tags: [recursos-tecnicos]
+tags: [tratamento-de-arquivos]
 created: 2026-10-12
 ---
 

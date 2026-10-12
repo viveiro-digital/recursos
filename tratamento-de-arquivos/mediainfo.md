@@ -22,5 +22,5 @@ Ferramenta que exibe dados técnicos e etiquetas de arquivos de áudio e vídeo.
 
 - **Custo:** gratuito.
 - **Instalação:** programa para computador (Linux, macOS, Windows e outros sistemas).
-- **Conhecimento técnico:** não requer (interface gráfica) ou uso do terminal.
+- **Conhecimento técnico:** não requer (interface gráfica).
 - **Licença:** BSD 2-Clause.

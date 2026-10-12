@@ -19,6 +19,5 @@ Visualizador web de código aberto para imagens ampliáveis, implementado em Jav
 
 ## Observações
 
-- **Custo:** gratuito.
 - **Conhecimento técnico:** uso do terminal.
 - **Licença:** BSD 3-Clause.

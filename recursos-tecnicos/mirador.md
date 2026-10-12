@@ -20,6 +20,5 @@ Visualizador web de código aberto para exibir e comparar imagens, com recursos 
 
 ## Observações
 
-- **Custo:** gratuito.
 - **Conhecimento técnico:** uso do terminal.
 - **Licença:** Apache 2.0.

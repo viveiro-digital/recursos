@@ -20,6 +20,5 @@ Visualizador de código aberto desenvolvido para compartilhar diferentes tipos d
 
 ## Observações
 
-- **Custo:** gratuito.
 - **Conhecimento técnico:** uso do terminal.
 - **Licença:** MIT.

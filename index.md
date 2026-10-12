@@ -144,6 +144,7 @@ As categorias organizam os recursos por etapa de trabalho.
 ### Tratamento de arquivos
 
 - [Apache Tika](tratamento-de-arquivos/apache-tika.md): kit de ferramentas para detectar formatos e extrair metadados e texto de arquivos digitais.
+- [ArchiveBox](tratamento-de-arquivos/archivebox.md): aplicação autohospedável para preservar páginas web em formatos como HTML, PDF, PNG, texto e WARC.
 - [Archivematica](tratamento-de-arquivos/archivematica.md): sistema livre para processamento de materiais digitais para preservação.
 - [BitCurator](tratamento-de-arquivos/bitcurator.md): ambiente livre para aquisição e análise forense de mídias digitais.
 - [DROID](tratamento-de-arquivos/droid.md): ferramenta para identificação de formatos de arquivo.
@@ -158,12 +159,12 @@ As categorias organizam os recursos por etapa de trabalho.
 
 ### Recursos técnicos
 
-- [ArchiveBox](recursos-tecnicos/archivebox.md): aplicação autohospedável para preservar páginas web em formatos como HTML, PDF, PNG, texto e WARC.
 - [bagit-python](recursos-tecnicos/bagit-python.md): biblioteca Python e ferramenta de linha de comando para criar e verificar pacotes BagIt.
 - [Internet Archive BookReader](recursos-tecnicos/internet-archive-bookreader.md): biblioteca JavaScript para exibir livros digitalizados na web e em páginas incorporadas.
 - [Lenny](recursos-tecnicos/lenny.md): software livre para preservar e emprestar livros digitais.
 - [Mirador](recursos-tecnicos/mirador.md): visualizador JavaScript para comparar imagens, ampliar documentos e exibir anotações em interfaces web.
 - [OpenSeadragon](recursos-tecnicos/openseadragon.md): visualizador JavaScript para imagens ampliáveis de alta resolução em páginas web.
+- [Readium Web](recursos-tecnicos/readium-web.md): kit de ferramentas TypeScript para livros digitais, audiolivros e histórias em quadrinhos em aplicações web.
 - [Universal Viewer](recursos-tecnicos/universal-viewer.md): visualizador web para imagens, PDFs, arquivos 3D, áudio e vídeo em acervos digitais.
 
 ## Para contribuir
