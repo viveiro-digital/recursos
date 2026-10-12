@@ -2,7 +2,7 @@
 title: "Community Archives Digital Preservation Toolkit"
 description: "Guia da DPC sobre preservação digital para arquivos comunitários."
 type: guia
-tags: [preservacao-digital]
+tags: [recursos-para-acervos]
 created: 2026-09-23
 ---
 

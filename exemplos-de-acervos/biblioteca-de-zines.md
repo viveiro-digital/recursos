@@ -2,7 +2,7 @@
 title: "Biblioteca de Zines"
 description: "Biblioteca virtual e de código aberto para catalogar e arquivar zines independentes do Brasil."
 type: iniciativa
-tags: [acervos-comunitarios]
+tags: [exemplos-de-acervos]
 created: 2026-10-06
 ---
 

@@ -2,7 +2,7 @@
 title: "QZAP — Queer Zine Archive Project"
 description: "Acervo digital de zines queer, lançado em 2003."
 type: acervo
-tags: [acervos-comunitarios]
+tags: [exemplos-de-acervos]
 created: 2026-09-23
 ---
 

@@ -2,7 +2,7 @@
 title: "CARE Principles for Indigenous Data Governance"
 description: "Princípios da GIDA para a governança de dados indígenas."
 type: padrão
-tags: [acervos-comunitarios]
+tags: [recursos-para-acervos]
 created: 2026-09-23
 ---
 

@@ -23,4 +23,4 @@ Princípios para melhorar a localização, o acesso, a interoperabilidade e o re
 
 ## Veja também
 
-- [Princípios CARE](../acervos-comunitarios/care-principles.md)
+- [Princípios CARE](../recursos-para-acervos/care-principles.md)

@@ -2,7 +2,7 @@
 title: "Black Digital Archiving Project"
 description: "Projeto do Reino Unido sobre acervos digitais de história negra."
 type: iniciativa
-tags: [acervos-comunitarios]
+tags: [exemplos-de-acervos]
 created: 2026-09-23
 ---
 

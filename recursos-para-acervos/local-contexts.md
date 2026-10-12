@@ -2,7 +2,7 @@
 title: "Local Contexts"
 description: "Iniciativa que mantém etiquetas digitais para direitos culturais indígenas sobre coleções e dados."
 type: iniciativa
-tags: [acervos-comunitarios]
+tags: [recursos-para-acervos]
 created: 2026-09-23
 ---
 

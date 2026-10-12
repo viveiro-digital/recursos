@@ -1,21 +1,23 @@
 ---
-title: Viveiro — recursos
+title: Viveiro Digital — recursos
 description: Recursos para organização e preservação de acervos digitais comunitários.
 ---
 
-# Viveiro — recursos
+# Viveiro Digital — recursos
 
 ## For English-speaking readers
 
-_Viveiro is an initiative, still taking shape, that supports communities in caring for their digital collections: organizing, preserving and sharing records of their histories while keeping autonomy over their materials. This repository is an open, collaborative collection of existing tools, guides, standards and initiatives for community digital archiving, organized by need. It is written in Brazilian Portuguese and licensed under CC BY 4.0._
+_Viveiro Digital is an initiative, still taking shape, that aims to strengthen the conditions for communities to organize, preserve and share their digital collections while keeping autonomy over their histories. This repository is an open, collaborative collection of existing tools, guides, standards and initiatives for community digital archiving, organized by need. It is written in Brazilian Portuguese and licensed under CC BY 4.0._
 
 _If you want to know more, use your browser's translate function — as everyone in South America once did if they didn't understand something in English. Do your jumps._
 
 ## Sobre
 
-O Viveiro é uma iniciativa em formação que apoia comunidades, em especial minoritárias e sub-representadas, no cuidado de seus acervos digitais. O projeto surgiu da experiência com a [Biblioteca de Zines](https://biblioteca-de-zines.com.br/), que será seu primeiro piloto.
+O Viveiro Digital é uma iniciativa em formação, nascida da experiência da Biblioteca de Zines. Seu objetivo é fortalecer as condições para que comunidades e pequenos projetos independentes de memória e arquivamento organizem, preservem e compartilhem seus próprios registros, mantendo autonomia sobre suas histórias e sobre a continuidade desse trabalho.
 
-Este repositório reúne ferramentas, guias, padrões e iniciativas para organização e preservação de acervos digitais. Salvo indicação, os recursos estão em inglês. A inclusão de um recurso não indica parceria ou endosso.
+O projeto tem especial interesse em iniciativas de comunidades minoritárias e sub-representadas, cujas memórias enfrentam apagamento, invisibilidade ou pouco apoio institucional. Na escolha dos recursos, dá preferência a ferramentas e iniciativas de código aberto e software livre, gratuitas ou com custos acessíveis, sem deixar de registrar outras referências relevantes.
+
+Acervos digitais comunitários são conjuntos de documentos, imagens, áudios, vídeos, relatos e outros registros reunidos, cuidados ou compartilhados por comunidades. Este repositório reúne ferramentas, guias, padrões e iniciativas para sua organização, preservação e acesso. Salvo indicação, os recursos estão em inglês. A inclusão de um recurso não indica parceria ou endosso.
 
 ## Índice
 
@@ -23,23 +25,70 @@ Este repositório reúne ferramentas, guias, padrões e iniciativas para organiz
 
 <!-- indice:inicio -->
 
-### Acervos comunitários
+### Exemplos de acervos e projetos
 
-- [Acervos Digitais e Pesquisa — FAU/USP](acervos-comunitarios/acervos-digitais-e-pesquisa-fau-usp.md): projeto de pesquisa da FAU/USP sobre organização, gestão e acesso a acervos digitais.
-- [Arquivos Comunitários: uma das práticas de lutas do ativismo arquivístico](acervos-comunitarios/arquivos-comunitarios-maira-fernandes-alencar.md): texto de Maíra Fernandes Alencar sobre arquivos comunitários e ativismo arquivístico.
-- [Barnard Zine Library](acervos-comunitarios/barnard-zine-library.md): biblioteca de zines da Barnard College, em Nova York, com catálogo e guias sobre zines.
-- [Biblioteca de Zines](acervos-comunitarios/biblioteca-de-zines.md): biblioteca virtual e de código aberto para catalogar e arquivar zines independentes do Brasil.
-- [Black Digital Archiving Project](acervos-comunitarios/black-digital-archiving-project.md): projeto do Reino Unido sobre acervos digitais de história negra.
-- [CARE Principles for Indigenous Data Governance](acervos-comunitarios/care-principles.md): princípios da GIDA para a governança de dados indígenas.
-- [Local Contexts](acervos-comunitarios/local-contexts.md): iniciativa que mantém etiquetas digitais para direitos culturais indígenas sobre coleções e dados.
-- [QZAP — Queer Zine Archive Project](acervos-comunitarios/qzap.md): acervo digital de zines queer, lançado em 2003.
-- [Zine Librarians Code of Ethics](acervos-comunitarios/zine-librarians-code-of-ethics.md): código de ética para coleções de zines, com orientações sobre acesso, uso e privacidade.
+- [Acervo da Laje](exemplos-de-acervos/acervo-da-laje.md): espaço de memória, arte e pesquisa sobre o Subúrbio Ferroviário de Salvador e suas comunidades negras e periféricas.
+- [Arquivo Lésbico Brasileiro](exemplos-de-acervos/arquivo-lesbico-brasileiro.md): arquivo que preserva e amplia o acesso a registros históricos das comunidades lésbicas no Brasil.
+- [Archivo de la Memoria Trans](exemplos-de-acervos/archivo-memoria-trans.md): arquivo comunitário argentino que preserva memórias e documentos da comunidade trans.
+- [Armazém Memória — Centro de Referência Virtual Indígena](exemplos-de-acervos/armazem-memoria-indigena.md): acervo digital de documentos, depoimentos e registros sobre povos indígenas e seus territórios.
+- [Arquivo Amapá](exemplos-de-acervos/arquivo-amapa.md): arquivo audiovisual online dedicado à memória cultural e histórica do Amapá.
+- [Barnard Zine Library](exemplos-de-acervos/barnard-zine-library.md): biblioteca de zines da Barnard College, em Nova York, com catálogo e guias sobre zines.
+- [Bem Brasileiro — IPHAN](exemplos-de-acervos/bem-brasileiro-iphan.md): plataforma do IPHAN para consulta a bens culturais registrados e ações de salvaguarda do patrimônio imaterial.
+- [Biblioteca de Zines](exemplos-de-acervos/biblioteca-de-zines.md): biblioteca virtual e de código aberto para catalogar e arquivar zines independentes do Brasil.
+- [Biblioteca Digital do IPHAN](exemplos-de-acervos/biblioteca-digital-iphan.md): repositório digital do IPHAN organizado por comunidades, coleções, autores, títulos e assuntos.
+- [Black Digital Archiving Project](exemplos-de-acervos/black-digital-archiving-project.md): projeto do Reino Unido sobre acervos digitais de história negra.
+- [Digital Himalaya](exemplos-de-acervos/digital-himalaya.md): projeto de preservação e acesso digital a materiais multimídia da região do Himalaia.
+- [Centro de Documentação e Pesquisa Indígena — CPI-Acre](exemplos-de-acervos/cdpi-cpi-acre.md): centro de documentação com registros históricos, audiovisuais e materiais de autoria indígena no Acre.
+- [Acervo audiovisual da CPI-Acre](exemplos-de-acervos/cpi-acre-acervo-audiovisual.md): arquivo audiovisual com histórias, línguas, culturas e projetos de memória de povos indígenas do Acre.
+- [Heranças Negras: Memórias Vivas do Amapá](exemplos-de-acervos/herancas-negras-amapa.md): websérie documental sobre histórias, saberes e trajetórias de pessoas negras no Amapá.
+- [GALA Queer Archive](exemplos-de-acervos/gala-queer-archive.md): arquivo comunitário sul-africano que preserva histórias e experiências de pessoas LGBTQIA+.
+- [Lesbiel](exemplos-de-acervos/lesbiel.md): arquivo digital de literatura e memória de autoras lésbicas e bissexuais.
+- [Museu Bajubá](exemplos-de-acervos/museu-bajuba.md): museu virtual sobre memórias, culturas e territórios de pessoas LGBTI+ no Brasil.
+- [Museu da Pessoa](exemplos-de-acervos/museu-da-pessoa.md): museu virtual e colaborativo que reúne histórias de vida em um acervo digital brasileiro.
+- [Museo Q](exemplos-de-acervos/museo-q.md): iniciativa colombiana sem fins lucrativos que cria exposições e projetos sobre memórias LGBTIQ+.
+- [Museu das Remoções](exemplos-de-acervos/museu-das-remocoes.md): museu de território criado na resistência às remoções da Vila Autódromo, no Rio de Janeiro.
+- [Museu Kuahí dos Povos Indígenas do Oiapoque](exemplos-de-acervos/museu-kuahi.md): museu indígena com acervos digitais sobre os povos e as culturas do Oiapoque, no Amapá.
+- [Museu Magüta](exemplos-de-acervos/museu-maguta.md): museu indígena Ticuna com catálogo digital de fotografias, vídeos, áudios, músicas, desenhos e publicações.
+- [Nova Cartografia Social da Amazônia](exemplos-de-acervos/nova-cartografia-social-amazonia.md): rede de documentação participativa que produz mapas, entrevistas e acervos digitais com povos e comunidades tradicionais da Amazônia.
+- [Núcleo de Memória e Identidades da Maré — NUMIM](exemplos-de-acervos/numim.md): iniciativa de história oral e preservação da memória das comunidades da Maré, no Rio de Janeiro.
+- [QZAP — Queer Zine Archive Project](exemplos-de-acervos/qzap.md): acervo digital de zines queer, lançado em 2003.
+- [Rio de Marés](exemplos-de-acervos/rio-de-mares.md): museu virtual sobre a história, as lutas e as memórias das comunidades da Maré, no Rio de Janeiro.
+- [South African History Online](exemplos-de-acervos/south-african-history-online.md): plataforma colaborativa de história pública, história oral e recursos educacionais sobre a África do Sul.
+
+### Recursos para acervos comunitários
+
+- [Acervos Digitais e Pesquisa — FAU/USP](recursos-para-acervos/acervos-digitais-e-pesquisa-fau-usp.md): projeto de pesquisa da FAU/USP sobre organização, gestão e acesso a acervos digitais.
+- [Arquivos Comunitários: uma das práticas de lutas do ativismo arquivístico](recursos-para-acervos/arquivos-comunitarios-maira-fernandes-alencar.md): texto de Maíra Fernandes Alencar sobre arquivos comunitários e ativismo arquivístico.
+- [Câmara Técnica de Avaliação de Arquivos Privados e Comunitários — CONARQ](recursos-para-acervos/camara-tecnica-arquivos-privados-comunitarios-conarq.md): câmara do CONARQ que avalia propostas de reconhecimento de interesse público e social para arquivos privados e comunitários.
+- [CARE Principles for Indigenous Data Governance](recursos-para-acervos/care-principles.md): princípios da GIDA para a governança de dados indígenas.
+- [Community Archives and Heritage Group](recursos-para-acervos/community-archives-and-heritage-group.md): grupo que apoia arquivos comunitários e projetos de patrimônio no Reino Unido e na Irlanda.
+- [Community Archives Digital Preservation Toolkit](recursos-para-acervos/community-archives-digital-preservation-toolkit.md): guia da DPC sobre preservação digital para arquivos comunitários.
+- [Accessible Archives for People with Disabilities](recursos-para-acervos/accessible-archives-disabilities.md): diretrizes para tornar serviços, espaços e práticas arquivísticas acessíveis a pessoas com deficiência.
+- [Anti-Racist Description Resources](recursos-para-acervos/anti-racist-description-resources.md): recursos para revisar práticas de descrição arquivística e enfrentar linguagem racista em catálogos.
+- [Authoring Tool Accessibility Guidelines (ATAG) 2.0](recursos-para-acervos/atag-20.md): diretrizes do W3C para tornar ferramentas de autoria e seu conteúdo acessíveis.
+- [Documenting the Now](recursos-para-acervos/documenting-the-now.md): projeto de código aberto para documentar e preservar conteúdos públicos de redes sociais com práticas centradas na comunidade.
+- [Guidelines for Social Justice Oral History Work](recursos-para-acervos/guidelines-oral-history-social-justice.md): guia para projetos de história oral com consentimento contínuo e participação comunitária.
+- [Iberarchivos](recursos-para-acervos/iberarchivos.md): programa ibero-americano de cooperação e financiamento para projetos arquivísticos.
+- [Indigenous Knowledges Attribution Toolkit (IKAT)](recursos-para-acervos/indigenous-knowledges-attribution-toolkit.md): guia para citar, atribuir e reconhecer a autoridade sobre conhecimentos indígenas.
+- [Authoring Tool Accessibility Guidelines (ATAG) 2.0](recursos-para-acervos/atag-20.md): diretrizes do W3C para tornar ferramentas de autoria e seu conteúdo acessíveis.
+- [ArchivesSpace](catalogacao-e-repositorios/archivesspace.md): aplicação livre para gestão, descrição e acesso a arquivos, manuscritos e objetos digitais.
+- [BitCurator](tratamento-de-arquivos/bitcurator.md): ambiente livre para aquisição e análise forense de mídias digitais.
+- [Inventário Nacional de Referências Culturais — IPHAN](recursos-para-acervos/inrc-iphan.md): plataforma digital para identificar, documentar e difundir referências culturais com participação das comunidades detentoras.
+- [ICA Code of Ethics](recursos-para-acervos/ica-code-of-ethics.md): código internacional para orientar decisões éticas no trabalho arquivístico.
+- [Local Contexts](recursos-para-acervos/local-contexts.md): iniciativa que mantém etiquetas digitais para direitos culturais indígenas sobre coleções e dados.
+- [Mukurtu](recursos-para-acervos/mukurtu.md): plataforma livre para patrimônio cultural digital com protocolos de acesso definidos pela comunidade.
+- [Principles in Indigenous Archival Repatriation (PINAR)](recursos-para-acervos/pinar-repatriacao-indigena.md): princípios para o retorno ético de materiais arquivísticos indígenas às comunidades de origem.
+- [Princípios de soberania de dados Māori](recursos-para-acervos/principios-soberania-dados-maori.md): princípios da Te Mana Raraunga para direitos e interesses Māori sobre dados.
+- [Uwazi](recursos-para-acervos/uwazi.md): plataforma livre para organizações de direitos humanos criarem e organizarem coleções documentais.
+- [Princípios de soberania de dados Māori](recursos-para-acervos/principios-soberania-dados-maori.md): princípios da Te Mana Raraunga para direitos e interesses Māori sobre dados.
+- [Tropy](catalogacao-e-repositorios/tropy.md): aplicação livre para organizar e descrever fotografias de pesquisa.
+- [Zine Librarians Code of Ethics](recursos-para-acervos/zine-librarians-code-of-ethics.md): código de ética para coleções de zines, com orientações sobre acesso, uso e privacidade.
 
 ### Preservação digital
 
 - [Awesome Digital Preservation](preservacao-digital/awesome-digital-preservation.md): lista colaborativa de recursos de preservação digital.
 - [BNDigital — preservação digital](preservacao-digital/bndigital-preservacao-digital.md): página da BNDigital sobre suas práticas de preservação digital.
-- [Community Archives Digital Preservation Toolkit](preservacao-digital/community-archives-digital-preservation-toolkit.md): guia da DPC sobre preservação digital para arquivos comunitários.
+- [Digital Preservation Handbook](preservacao-digital/digital-preservation-handbook.md): manual online da DPC sobre orientações, ferramentas e estudos de caso de preservação digital.
 - [Glossário da Rede Cariniana](preservacao-digital/glossario-da-rede-cariniana.md): glossário em português de termos de preservação digital.
 - [IBICT — preservação digital](preservacao-digital/ibict-preservacao-digital.md): pesquisas e iniciativas de preservação digital do IBICT.
 - [LOCKSS](preservacao-digital/lockss.md): sistema de preservação distribuída baseado em múltiplas cópias.
@@ -55,6 +104,7 @@ Este repositório reúne ferramentas, guias, padrões e iniciativas para organiz
 
 - [Carta sobre a preservação do patrimônio digital (UNESCO, 2003)](politicas-de-preservacao/unesco-carta-preservacao-patrimonio-digital.md): documento que reconhece o patrimônio digital e recomenda ações para sua preservação.
 - [Catalogue of Preservation Policy Elements (SCAPE, 2014)](politicas-de-preservacao/scape-policy-framework.md): catálogo que organiza políticas de preservação em três níveis, de princípios a controles.
+- [Orientações técnicas sobre documentos digitais — CONARQ](politicas-de-preservacao/conarq-orientacoes-tecnicas-documentos-digitais.md): notas brasileiras sobre normas para documentos arquivísticos digitais.
 - [Digital Preservation Documentation: a guide (DPC)](politicas-de-preservacao/dpc-digital-preservation-documentation-guide.md): guia da DPC sobre documentação de rotinas de preservação digital.
 - [Digital Preservation Policy Toolkit (DPC)](politicas-de-preservacao/dpc-digital-preservation-policy-toolkit.md): guias e modelo da DPC para elaborar políticas de preservação digital.
 - [Política de preservação digital para documentos de arquivo da UNESP (2017)](politicas-de-preservacao/unesp-politica-preservacao-digital.md): política da UNESP com diretrizes, padrões, metadados e estratégias de preservação digital.
@@ -65,12 +115,12 @@ Este repositório reúne ferramentas, guias, padrões e iniciativas para organiz
 ### Catalogação e repositórios
 
 - [AtoM — Access to Memory](catalogacao-e-repositorios/atom.md): software livre para descrição arquivística e acesso a acervos pela web.
+- [BIBLIVRE](catalogacao-e-repositorios/biblivre.md): software brasileiro para gerenciamento de bibliotecas e catalogação de materiais bibliográficos e objetos digitais.
 - [CollectiveAccess](catalogacao-e-repositorios/collectiveaccess.md): software livre para catalogação e publicação de coleções.
 - [DSpace](catalogacao-e-repositorios/dspace.md): software livre para criar repositórios digitais.
 - [Fedora](catalogacao-e-repositorios/fedora.md): camada de armazenamento para repositórios digitais.
 - [InvenioRDM](catalogacao-e-repositorios/inveniordm.md): plataforma livre para repositórios de pesquisa, base do Zenodo.
 - [Lenny](catalogacao-e-repositorios/lenny.md): software livre para empréstimo de livros digitais.
-- [Mukurtu](catalogacao-e-repositorios/mukurtu.md): plataforma livre para patrimônio cultural digital com protocolos de acesso definidos pela comunidade.
 - [Omeka S](catalogacao-e-repositorios/omeka-s.md): software livre para publicação de coleções digitais e exposições.
 - [Tainacan](catalogacao-e-repositorios/tainacan.md): plugin brasileiro de WordPress para gestão e publicação de acervos digitais.
 

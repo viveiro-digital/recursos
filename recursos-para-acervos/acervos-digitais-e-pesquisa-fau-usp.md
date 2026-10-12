@@ -2,7 +2,7 @@
 title: "Acervos Digitais e Pesquisa — FAU/USP"
 description: "Projeto de pesquisa da FAU/USP sobre organização, gestão e acesso a acervos digitais."
 type: iniciativa
-tags: [acervos-comunitarios]
+tags: [recursos-para-acervos]
 created: 2026-09-23
 ---
 

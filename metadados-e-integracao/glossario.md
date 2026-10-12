@@ -29,4 +29,4 @@ Glossário introdutório com termos usados nas entradas deste repositório. As d
 - [Understanding Metadata (NISO)](understanding-metadata-niso.md)
 - [DCMI Metadata Terms (Dublin Core)](dcmi-metadata-terms.md)
 - [PREMIS](premis.md)
-- [Princípios CARE](../acervos-comunitarios/care-principles.md)
+- [Princípios CARE](../recursos-para-acervos/care-principles.md)

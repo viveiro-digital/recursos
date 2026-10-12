@@ -2,7 +2,7 @@
 title: "Arquivos Comunitários: uma das práticas de lutas do ativismo arquivístico"
 description: "Texto de Maíra Fernandes Alencar sobre arquivos comunitários e ativismo arquivístico."
 type: publicação
-tags: [acervos-comunitarios]
+tags: [recursos-para-acervos]
 created: 2026-09-23
 ---
 

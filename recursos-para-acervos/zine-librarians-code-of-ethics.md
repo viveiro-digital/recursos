@@ -2,7 +2,7 @@
 title: "Zine Librarians Code of Ethics"
 description: "Código de ética para coleções de zines, com orientações sobre acesso, uso e privacidade."
 type: guia
-tags: [acervos-comunitarios]
+tags: [recursos-para-acervos]
 created: 2026-09-23
 ---
 

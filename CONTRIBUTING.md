@@ -7,6 +7,10 @@ description: Como sugerir, corrigir ou acrescentar um recurso.
 
 Este repositório contém apenas arquivos Markdown. Não é preciso instalar nada para contribuir.
 
+## Critérios de seleção
+
+O catálogo tem especial interesse em recursos para comunidades minoritárias e sub-representadas, cujas memórias enfrentam apagamento, invisibilidade ou pouco apoio institucional. Ao sugerir um recurso, dê preferência a ferramentas e iniciativas de código aberto e software livre, gratuitas ou com custos acessíveis. Essa preferência orienta a curadoria, mas não exclui outras referências relevantes para o cuidado de acervos comunitários.
+
 ## Sugerir um recurso por issue
 
 Abra uma [issue](https://github.com/viveiro-digital/recursos/issues/new) com as seguintes informações:
@@ -26,7 +30,7 @@ Cada recurso tem um arquivo próprio, na pasta da sua categoria. As categorias e
 4. Preencha o arquivo conforme o modelo da próxima seção.
 5. Abra o pull request.
 
-O portal publicado é gerado pelo Upcontent a partir dos arquivos Markdown e da configuração em `.upcontent/config.json`.
+O site publicado é gerado pelo Upcontent a partir dos arquivos Markdown e da configuração em `.upcontent/config.json`.
 
 A entrada deve atender às seguintes regras:
 
@@ -121,6 +125,13 @@ A seção **Observações** usa itens rotulados, sempre nesta ordem e com estas 
 | **Formato** | Para documentos: "PDF, 25 páginas." |
 
 O público do recurso é descrito por esses fatos práticos. Não classifique recursos pelo porte de quem os usa (como "voltado a grandes instituições"): quem lê decide se o recurso serve ao seu contexto.
+
+### Categorias
+
+As entradas são organizadas por etapa de trabalho ou por função no catálogo. As categorias que reúnem referências sobre acervos comunitários são distintas dos exemplos de acervos e projetos:
+
+- `recursos-para-acervos`: guias, padrões, organizações, redes e pesquisas que apoiam o trabalho com acervos comunitários.
+- `exemplos-de-acervos`: acervos, museus, bibliotecas e projetos que documentam memórias e patrimônios de comunidades.
 
 ### Exemplo de entrada
 

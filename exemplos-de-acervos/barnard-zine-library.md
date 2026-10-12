@@ -2,7 +2,7 @@
 title: "Barnard Zine Library"
 description: "Biblioteca de zines da Barnard College, em Nova York, com catálogo e guias sobre zines."
 type: acervo
-tags: [acervos-comunitarios]
+tags: [exemplos-de-acervos]
 created: 2026-09-23
 ---
 
